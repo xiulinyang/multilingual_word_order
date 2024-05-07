@@ -1,20 +1,19 @@
 from transformers import AutoModelWithLMHead, AutoTokenizer
 import torch
-import torch.nn.functional as F
 from tqdm import tqdm
 import random
-import re
 
 random.seed(42)
-
-tokenizer_multi = AutoTokenizer.from_pretrained("bert-base-multilingual-cased")
-model_multi = AutoModelWithLMHead.from_pretrained("bert-base-multilingual-cased")
 # DeepPavlov/rubert-base-cased
 # dbmdz/bert-base-turkish-cased
 # dbmdz/bert-base-german-cased
 # nlpaueb/bert-base-greek-uncased-v1
 # TurkuNLP/bert-base-finnish-cased-v1
 # dkleczek/bert-base-polish-uncased-v1
+
+tokenizer_multi = AutoTokenizer.from_pretrained("bert-base-multilingual-cased")
+model_multi = AutoModelWithLMHead.from_pretrained("bert-base-multilingual-cased")
+
 tokenizer_mono = AutoTokenizer.from_pretrained("bert-base-uncased")
 model_mono = AutoModelWithLMHead.from_pretrained("bert-base-uncased")
 
@@ -57,16 +56,11 @@ def get_mask_prob(input_file_path, model, tokenizer):
     return sum_prob / len(sentss)
 
 
-# parallel_prob = last_token_prob('de_parallel.txt', 'de_parallel_output.txt')
-# diff_prob = last_token_prob('de_different.txt', 'de_diff_output.txt')
 parallel_prob_multi = get_mask_prob('en_parallel_sv_unfill.txt', model_multi, tokenizer_multi)
 parallel_prob_mono = get_mask_prob('en_parallel_sv_unfill.txt', model_mono, tokenizer_mono)
-
 parallel_ratio = parallel_prob_multi / parallel_prob_mono
-
 diff_prob_multi = get_mask_prob('en_different_vs_unfill.txt', model_multi, tokenizer_multi)
 diff_prob_mono = get_mask_prob('en_different_vs_unfill.txt', model_mono, tokenizer_mono)
-
 diff_ratio = diff_prob_multi / diff_prob_mono
 print('results')
 print(parallel_prob_multi)
@@ -76,5 +70,4 @@ print(diff_prob_mono)
 print(parallel_ratio)
 print(diff_ratio)
 print(parallel_ratio / diff_ratio)
-# parallel_prob = last_token_prob('ru_parallel.txt', 'ru_parallel_output.txt')
-# diff_prob = last_token_prob('ru_different.txt', 'ru_diff_output.txt')
+
