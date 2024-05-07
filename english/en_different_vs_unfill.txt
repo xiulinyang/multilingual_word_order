@@ -1,0 +1,1400 @@
+[MASK] is the cost of a round trip flight from pittsburgh to atlanta beginning on april twenty fifth and returning on may sixth	what
+[MASK] is the meaning of meal code s	what
+[MASK] there any flights from boston to san francisco which stop in washington dc	are
+[MASK] there a late afternoon flight leaving washington for denver	is
+[MASK] there a meal on delta flight 852 from san francisco to dallas fort worth	is
+[MASK] there one stop with the us air boston leaving at 705 to atlanta	is
+is the american [MASK] 813 from boston to oakland a flight that goes straight through from boston to oakland without stopping at another city	flight
+[MASK] there any flights from pittsburgh to boston that leave between noon and 5 o'clock	are
+what [MASK] is the airport mco in	city
+[MASK] there an airport limousine at the atlanta airport	is
+[MASK] there a flight from pittsburgh to baltimore that arrives between 6 and 7 pm	is
+[MASK] is lester pearson airport	where
+[MASK] there any other cities that i can fly from boston to dallas through that i can get a flight earlier than 1017 in the morning	are
+[MASK] is mco	where
+what time [MASK] is denver in	zone
+[MASK] there any american airlines flights flying into pittsburgh between 12 and 4 in the afternoon	are
+how [MASK] is a limousine service in la guardia	much
+how [MASK] is a limousine service in toronto international	much
+how [MASK] is the limousine service in boston	much
+how [MASK] is a limousine between dallas fort worth international airport and dallas	much
+what [MASK] is a limousine service in boston	price
+how [MASK] is the ground transportation between atlanta and downtown	much
+how [MASK] is limousine service in los angeles	much
+how [MASK] is the san francisco limousine service	expensive
+what [MASK] is a limousine service to new york 's la guardia	price
+[MASK] there a flight leaving at 1505 from pittsburgh to baltimore on july twenty fifth 1991	is
+[MASK] are the flights from philadelphia to dallas on october first 1991	what
+[MASK] is ewr	what
+[MASK] is cvg	what
+[MASK] is bna	what
+[MASK] is mci	what
+[MASK] is mco	what
+[MASK] is yyz	what
+[MASK] is ord	what
+[MASK] is bur	what
+how [MASK] is the flight from atlanta to san francisco at noon on november seventh	long
+how [MASK] is new york 's la guardia from downtown	far
+how [MASK] from the airport in the dallas fort worth airport is dallas	far
+how [MASK] is oakland airport from downtown	far
+how [MASK] is san francisco international from downtown	far
+how [MASK] is the airport from san francisco	far
+how [MASK] is it from salt lake city airport to salt lake city	far
+how [MASK] is the airport from downtown pittsburgh	far
+how [MASK] is downtown from the airport in dallas	far
+how [MASK] is a trip from philadelphia airport to downtown philadelphia	long
+[MASK] 's the airport at orlando	what
+[MASK] there an airline that advertises having more flights than any other airline	is
+please [MASK] all flights from philadelphia to denver airport next sunday	show
+[MASK] there a fare from pittsburgh to cleveland under 200 dollars	is
+[MASK] there any thrift economy flights to san francisco from boston	are
+how [MASK] is an economy ticket from washington to san francisco on september thirtieth	much
+[MASK] there a flight between san francisco and boston with a stopover in dallas fort worth	is
+[MASK] there any flights from boston to orlando connecting in new york	are
+[MASK] there a flight from boston to san francisco making a stopover in dallas fort worth	is
+[MASK] are connecting flights from chicago to seattle on june first	what
+[MASK] there a round trip flight from baltimore to denver connecting in dallas	is
+[MASK] there a round trip flight from baltimore to dallas connecting in denver	is
+[MASK] there a direct flight from atlanta to philadelphia that arrives in philadelphia around 12 noon	is
+[MASK] there any flights from denver to atlanta which connect in pittsburgh	are
+[MASK] there any flights from boston to orlando connecting in columbus	are
+how [MASK] is a us air boston to pittsburgh daily nonstop flight	much
+[MASK] there a flight departing from san francisco and arriving in oakland on november seventh in the evening	is
+[MASK] is lowest cost air fare available for a flight from dallas to baltimore arriving on july fourth	what
+[MASK] is the latest afternoon flight departing san francisco and arriving in boston on november ninth	what
+[MASK] there any nonstop flights leaving from dallas to baltimore july seventh with who united airlines	are
+[MASK] there any nonstop flights leaving from denver arriving in baltimore on july seventh	are
+[MASK] is the earliest flight leaving boston and arriving in atlanta on november seventh	what
+[MASK] is the earliest united airlines flight flying from denver to baltimore and arriving on july fourth	what
+[MASK] is the earliest flight departing san francisco and arriving in boston on november ninth	what
+[MASK] is the schedule of flights from boston to denver next monday	what
+[MASK] is the minimum connection time for houston intercontinental	what
+[MASK] is delta 's schedule of morning flights to atlanta	what
+what [MASK] is the last flight from washington to san francisco	time
+[MASK] is the total schedule for delta 's flights to all airports	what
+what [MASK] are flights from denver to san francisco on continental airlines	time
+what [MASK] are the flights leaving from denver to pittsburgh on july seventh	time
+[MASK] are the schedule of flights from boston to san francisco for august first	what
+what [MASK] are the flights from baltimore to san francisco	time
+[MASK] is american 's schedule of morning flights to atlanta	what
+[MASK] there any limousines or taxi services available at the boston airport	are
+[MASK] there a limousine service available from the pittsburgh airport	is
+[MASK] are the flights on sunday from montreal quebec to san diego california	what
+[MASK] are the flights on thursday leaving from st. paul minnesota to st. louis	what
+[MASK] are the flights from phoenix arizona to st. paul minnesota on tuesday	what
+[MASK] is the lowest price fare from atlanta to san francisco on flight delta 82 and delta 139	what
+[MASK] is the least expensive fare from boston to salt lake city	what
+[MASK] is the least expensive flight from baltimore to san francisco	what
+[MASK] are the least expensive flights between dallas and baltimore on july nineteenth	which
+[MASK] is the least expensive flight from denver to atlanta	what
+[MASK] is the least expensive one way fare between philadelphia and boston	what
+[MASK] is the least expensive business class flight between boston and san francisco	what
+[MASK] is the least expensive fare from baltimore to san francisco leaving on september thirtieth	what
+[MASK] is the least expensive flight from atlanta to boston	what
+[MASK] are the most expensive first class tickets between atlanta and dallas	what
+[MASK] is the most expensive one way fare between detroit and westchester county	what
+[MASK] is the lowest cost fare that delta has between boston and san francisco	what
+[MASK] is the least expensive flight from pittsburgh to atlanta leaving on october fifth	what
+[MASK] 's the most expensive way i can fly to washington	what
+[MASK] is your least expensive fare between atlanta and boston	what
+[MASK] is the most expensive flight from dallas to baltimore	what
+[MASK] is the lowest cost for a one way ticket from boston to washington	what
+[MASK] is the least expensive one way fare from boston to san francisco	what
+[MASK] is the most expensive one way fare from boston to atlanta on american airlines	what
+[MASK] is the least expensive flight today from atlanta to san francisco	what
+[MASK] is the least expensive business class flight between atlanta and dallas	what
+[MASK] is the least expensive flight from atlanta to denver leaving on october twelfth	what
+[MASK] is the least expensive flight available from dallas fort worth to san francisco	what
+[MASK] is the least expensive one way fare from boston to pittsburgh	what
+[MASK] there ground transportation from the milwaukee airport to the downtown area	is
+[MASK] there ground transportation available at the salt lake city airport	is
+[MASK] there ground transportation available at the phoenix airport	is
+[MASK] there ground transportation available at the indianapolis airport	is
+[MASK] there ground transportation in st. louis	is
+[MASK] is the ground transportation in san diego	what
+[MASK] there any ground transportation to the city in dallas	is
+[MASK] 's the ground transportation in westchester county	what
+[MASK] is the ground transportation available in fort worth	what
+[MASK] is the ground transportation available in the city of fort worth	what
+[MASK] are the flights from dallas to boston for tomorrow night or evening	what
+[MASK] are the flights from denver to baltimore or washington dc	which
+[MASK] 's the difference between fare code q and fare code b	what
+[MASK] is fare code f	what
+[MASK] are fare codes qw and qx	what
+[MASK] is fare code fn	what
+[MASK] is fare code h	what
+[MASK] is fare class h	what
+[MASK] is the meaning of fare code qx and qw	what
+[MASK] 's fare code yn	what
+[MASK] is the fare code y and what is the fare code h	what
+[MASK] 's the difference between fare code q and fare code f	what
+[MASK] is the yn code	what
+[MASK] is fare code q	what
+[MASK] are the fares for flights serving a meal from boston to pittsburgh before noon on thursday	what
+[MASK] is the earliest flight from boston to oakland that serves a meal	what
+[MASK] there any flights between pittsburgh and baltimore using a j31 aircraft	are
+[MASK] is 73s	what
+what [MASK] of plane is an m80	type
+what [MASK] of plane is a d9s	type
+[MASK] there any flights between dallas and phoenix using a dc10 aircraft	are
+before 10 o'clock on tuesday [MASK] there a 747 that flies from baltimore to san francisco	is
+[MASK] is the abbreviation d10	what
+[MASK] is the latest breakfast flight from dallas to tampa	what
+[MASK] is the earliest flight between pittsburgh and denver that serves breakfast	what
+[MASK] is the first flight that travels from atlanta to baltimore that serves lunch	what
+[MASK] is the latest flight from baltimore to oakland that serves dinner	what
+[MASK] is the earliest breakfast flight from philadelphia to fort worth	what
+[MASK] are the dinner flights from indianapolis to san diego on wednesday may twelfth	what
+[MASK] is the first flight from atlanta to baltimore that serves lunch	what
+[MASK] is the earliest flight from washington to san francisco on friday that serves breakfast	what
+[MASK] there a flight in the afternoon from philadelphia that arrives in the evening in denver	is
+[MASK] there an airline that services boston dc and dallas	is
+[MASK] are the flights between washington dc and columbus ohio	what
+[MASK] are the lowest fares from washington dc to salt lake city	what
+[MASK] is the latest flight from washington dc to denver	what
+[MASK] there a flight between washington dc and san francisco on us air at 8 am	is
+[MASK] is the lowest fare from washington dc to montreal	what
+[MASK] is the schedule of ground transportation from the airport in philadelphia into downtown	what
+[MASK] 's the fare for delta flight 217 from dallas to san francisco	what
+[MASK] is the fare from san francisco to dallas fort worth on delta flight 852	what
+us 3724 baltimore to philadelphia [MASK] is the fare	what
+[MASK] is the fare on continental 271 from dallas to san francisco	what
+[MASK] is the cheapest round trip fare on continental 1291 round trip denver san francisco	what
+[MASK] is the round trip fare on continental 1291 from denver to san francisco and return	what
+what [MASK] of airplane is flight ua 270 from denver to philadelphia	kind
+us 771 pittsburgh to philadelphia [MASK] is the fare	what
+what [MASK] is co 1209	aircraft
+dl 296 denver to philadelphia [MASK] is the fare	what
+[MASK] are the fares from dallas to san francisco on flight dl 217	what
+us 3724 baltimore to philadelphia [MASK] is the round trip fare	what
+[MASK] is the round trip fare on continental 1291 from dallas to san francisco and return	what
+[MASK] there a plane from boston to washington	is
+[MASK] is the ground transportation from philadelphia airport to the city proper	what
+[MASK] there ground transportation from the atlanta airport to downtown atlanta	is
+[MASK] there ground transportation from the dallas airport to downtown dallas	is
+[MASK] there transportation from the atlanta airport to downtown atlanta	is
+[MASK] are the flights from la guardia to san jose on united	what
+[MASK] there ground transportation from the pittsburgh airport to downtown pittsburgh	is
+[MASK] there ground transportation from atlanta airport to downtown atlanta	is
+[MASK] there ground transportation from san diego airport to the downtown area	is
+[MASK] there ground transportation in dallas from the dallas airport to downtown dallas	is
+[MASK] is the ground transportation from boston airport to boston downtown	what
+[MASK] are the flights from boston to baltimore leaving tomorrow	what
+[MASK] 's the cheapest flight tomorrow from milwaukee to denver	what
+[MASK] there a flight tomorrow morning from columbus to nashville	is
+[MASK] is the latest flight from milwaukee to seattle tomorrow	what
+[MASK] are the flights from tacoma to miami that leave after 6 pm tomorrow	what
+[MASK] 's the cheapest flight from san francisco to detroit today	what
+[MASK] is the earliest flight from tampa to milwaukee tomorrow	what
+[MASK] there a flight from nashville to houston in the evening tomorrow	is
+[MASK] there any nonstop flights from san francisco to boston on thursdays	are
+[MASK] 're the flights from memphis to las vegas that arrive on a sunday	what
+[MASK] 're the flights from new york city to las vegas that arrive on a sunday	what
+[MASK] is the first flight arriving in montreal from toronto friday	what
+[MASK] is a flight that goes from baltimore to san francisco and arrives at san francisco at 8 pm on a friday	what
+[MASK] there any flights next monday morning from pittsburgh to san francisco	are
+[MASK] are the morning flights in the next two days from nashville to tacoma	what
+[MASK] are the morning flights from nashville to tacoma and from nashville to san jose in the next two days	what
+[MASK] are the flights from san francisco to washington dc	what
+[MASK] is the earliest flight from oakland to washington dc on sunday	what
+[MASK] are the fares for flights between boston and washington dc	what
+[MASK] there a united airlines flight from miami to washington dc arriving around noon	is
+[MASK] are the flights between cincinnati and san jose california which leave after 6 pm	what
+[MASK] is the cheapest flight from denver to pittsburgh on july twenty sixth	what
+[MASK] are the flights from kansas city to burbank on saturday may twenty two on southwest	what
+[MASK] is the cheapest fare for a round trip from indianapolis to orlando on december twenty seventh	what
+[MASK] is your last trip on august twenty seventh from washington to boston	what
+[MASK] is your last trip from washington to boston on august twenty seventh	what
+[MASK] there a united flight from baltimore to san francisco on the morning of august twenty seventh	is
+[MASK] is the cheapest flight from denver to pittsburgh leaving on september twenty eighth	what
+[MASK] are the flights from las vegas to burbank also on saturday may twenty two	what
+[MASK] about april twenty seventh denver to washington	how
+[MASK] are the flights from kansas city to burbank on saturday may twenty two on america west	what
+[MASK] there a flight on american airlines going from boston to san francisco on june twenty eighth	is
+[MASK] is ua	what
+[MASK] airline ua	define
+[MASK] is the code for business class	what
+[MASK] is ff	what
+[MASK] is as	what
+what [MASK] is aa	airline
+[MASK] is airline ff	what
+[MASK] there a twa flight from las vegas to new york	is
+which [MASK] is as	airline
+[MASK] is airline dl	what
+what [MASK] is ea the abbreviation for	airline
+what [MASK] is ac	airline
+how [MASK] is the 718 am flight from las vegas to new york twa	much
+what [MASK] is hp	airline
+[MASK] is airline wn	what
+which [MASK] is us	airline
+what [MASK] is us	airline
+what [MASK] is ea	airline
+[MASK] 's the cheapest round trip flight on twa from columbus to st. paul	what
+[MASK] is airline us	what
+[MASK] there a flight from baltimore to san francisco with a stop in denver on twa	is
+[MASK] is the price of business class from boston to san francisco on twa	what
+what [MASK] is as	airline
+[MASK] there any nonstop flights from philadelphia to denver that arrive before 5 pm	are
+[MASK] there a flight from boston to atlanta which leaves boston in the afternoon and arrives close to 5 pm	is
+[MASK] are the nonstop flights from cincinnati to charlotte leaving after noon and arriving before 7 pm	what
+what [MASK] is the flight originating in atlanta on november seventh at noon and arriving in san francisco at 210 pm	airline
+[MASK] are my choices of flights to get from charlotte to minneapolis arriving about 7 pm in minneapolis	what
+[MASK] are the flights from atlanta to baltimore which arrive in baltimore at 7 o'clock pm	what
+[MASK] are the flights which depart from san francisco fly to washington via indianapolis and arrive by 9 pm	what
+[MASK] there an airline that has a flight from philadelphia to san francisco with a stop in dallas	is
+[MASK] there one airline that flies from burbank to milwaukee milwaukee to st. louis and from st. louis to burbank	is
+[MASK] 're the cheapest nonstop flights from new york to miami one way	what
+[MASK] there any flights from boston to oakland that stop	are
+[MASK] are the nonstop flights between houston and memphis	what
+[MASK] there a nonstop flight from denver to san francisco	is
+[MASK] is the fare for a first class round trip ticket from detroit to st. petersburg	what
+[MASK] is the price of a first class ticket from atlanta to san francisco	what
+how [MASK] is a first class round trip from atlanta to san francisco	much
+[MASK] is the first class fare from boston to dallas	what
+[MASK] is the latest afternoon flight i can get from dallas to san francisco on first class	what
+[MASK] is the price of a first class ticket from milwaukee to san francisco round trip	what
+[MASK] is the round trip first class fare on united from boston to san francisco	what
+[MASK] is the latest first class flight of the day leaving dallas for san francisco	what
+how [MASK] is a first class ticket from boston to san francisco	much
+[MASK] is the first class fare for a round trip dallas to denver	what
+[MASK] is the first class fare from indianapolis to orlando	what
+[MASK] is the cost of a first class ticket from dallas fort worth to san francisco	what
+[MASK] is the first class fare from baltimore to dallas	what
+[MASK] is the airfare for a round trip first class ticket from detroit to st. petersburg	what
+how [MASK] is a round trip first class fare between boston and washington	much
+[MASK] is the fare from philadelphia to pittsburgh business class one way	what
+[MASK] are the first class fares from boston to pittsburgh on thursday	what
+[MASK] is the cost of a business class ticket going from boston to dallas leaving july first	what
+[MASK] is the cost of round trip ticket first class between oakland and atlanta	what
+[MASK] 's the first class fare round trip from atlanta to denver	what
+[MASK] is the earliest flight from philadelphia to dallas first class	what
+[MASK] are the coach class fares on flights from pittsburgh to atlanta	what
+[MASK] is the first class round trip airfare from india indianapolis to memphis	what
+how [MASK] is a first class ticket from washington to san francisco leaving on friday	much
+[MASK] is the earliest american airlines flight that i can get first class from philadelphia to dallas	what
+[MASK] are the round trip fares for flights from denver to philadelphia arriving after 1700 on continental	what
+[MASK] is the cheapest round trip coach flight between dallas and baltimore leaving august tenth	what
+[MASK] are the coach fares for flights from charlotte to newark tuesday evening	what
+[MASK] is the coach fare between boston and atlanta on delta	what
+[MASK] are the coach fares for flights from newark to la leaving after 3 pm	what
+[MASK] is the round trip thrift fare on us air from boston to san francisco	what
+[MASK] are the coach fares from charlotte to la wednesday night	what
+[MASK] is the fare from atlanta to boston on coach one way	what
+[MASK] is the cheapest coach flight between dallas and baltimore leaving august tenth	what
+[MASK] are the coach fares for flights from charlotte to newark tuesday afternoon	what
+how [MASK] is coach flight from pittsburgh to atlanta	much
+[MASK] is the cheapest coach fare from dallas to denver round trip	what
+[MASK] is the ground transportation available in boston	what
+[MASK] is the ground transportation available in the city of philadelphia	what
+in boston [MASK] there ground transportation between airport and downtown	is
+[MASK] 's the ground transportation in denver	what
+[MASK] there ground transportation in oakland	is
+[MASK] there ground transportation available in denver	is
+[MASK] is the ground transport in denver	what
+[MASK] there ground transportation in boston from the airport	is
+[MASK] there ground transportation in baltimore	is
+[MASK] is the ground transportation available in denver	what
+[MASK] are the ground transportation services in philadelphia	what
+[MASK] ground transportation for pittsburgh	show
+[MASK] there any flights from denver to pittsburgh with a stopover in atlanta	are
+[MASK] there a delta flight from boston to san francisco that stops in denver	is
+[MASK] about a flight from boston to san francisco stopping in denver	what
+[MASK] there any flights from boston to san francisco with a stopover in dallas	are
+[MASK] there a flight from philadelphia to oakland with a stop in dallas	is
+in the month of december [MASK] there any flights from atlanta to denver that stop in boston	are
+[MASK] there any flights from new york to los angeles which stop over in milwaukee	are
+[MASK] are all flights from san francisco to philadelphia with stops in pittsburgh	what
+[MASK] there a round trip flight from atlanta to dallas via denver	is
+[MASK] are the flights in the month of december from atlanta to denver which stop in boston	what
+how [MASK] is the cheapest flight from denver to pittsburgh with a stop in atlanta	much
+[MASK] there a flight from atlanta to san francisco that stops over in denver	is
+[MASK] there any flights from philadelphia to dallas which stop in atlanta	are
+[MASK] there ground transportation from the airport to downtown phoenix	is
+[MASK] 's the ground transportation from oakland to san francisco	what
+[MASK] there ground transportation from the airport in denver to downtown	is
+[MASK] there ground transportation between airport and downtown in boston	is
+[MASK] is the available ground transportation between the airport in denver and downtown	what
+[MASK] is the ground transportation between airport and baltimore	what
+[MASK] there any flight leaving washington around 3 o'clock for denver	is
+[MASK] there any flights from dallas fort worth to boston leaving before 10 am	are
+on a flight from san francisco to atlanta that leaves before 8 am [MASK] there such a flight	is
+[MASK] are the flights available after 6 pm between san francisco and boston	what
+[MASK] there any flights before 12 noon on june fifteenth from long beach to columbus	are
+[MASK] are the cheapest fares for flights from newark to la leaving wednesday after 3 pm	what
+[MASK] are the flights available after 3 pm between denver and san francisco	what
+[MASK] there an afternoon flight from charlotte to minneapolis around 2 pm	is
+[MASK] is the first flight after 8 am from boston to san francisco	what
+[MASK] is the first flight after 12 noon from washington for denver	what
+[MASK] there any flights after 9 pm from san francisco to washington	are
+[MASK] there any 4 o'clock flights from washington to denver	are
+[MASK] there an american airlines flight from houston to newark on june tenth after 3 pm	is
+[MASK] there a flight from denver to san francisco on continental airlines leaving after 12 o'clock in the afternoon	is
+[MASK] there an american airlines flight from houston to newark on june tenth after 6 pm	is
+[MASK] is the shortest flight from milwaukee to long beach	what
+[MASK] 's the earliest flight from boston to philadelphia	what
+[MASK] is your last flight leaving san francisco and arriving in denver	what
+[MASK] is the earliest flight that eastern has between boston and washington	what
+[MASK] is the earliest flight from boston to atlanta	what
+[MASK] 's the earliest flight from atlanta to boston	what
+[MASK] is the earliest flight from washington to san francisco	what
+[MASK] is the last flight of the day to leave baltimore for boston	what
+[MASK] is the latest flight in the day from baltimore to atlanta	what
+[MASK] is the first flight from boston to atlanta	what
+[MASK] is the latest flight leaving boston to denver	what
+[MASK] is the earliest flight between boston and washington	what
+[MASK] is the last flight from san francisco to dallas fort worth	what
+[MASK] is the earliest flight from boston to philadelphia	what
+[MASK] is the earliest flight from boston to denver	what
+[MASK] is the earliest flight from boston to washington	what
+[MASK] 's the first flight from dallas to houston	what
+[MASK] is the first flight from boston to san francisco on saturday	what
+[MASK] is the latest us air flight leaving philadelphia and returning to boston	what
+[MASK] is the earliest flight going from san francisco to dallas on monday august nineteenth	what
+[MASK] 's the earliest flight from san francisco to boston	what
+[MASK] is the earliest flight in the morning to arrive in baltimore from boston	what
+[MASK] is the earliest flight i can get from baltimore to boston	what
+[MASK] is the shortest flight from milwaukee to san diego	what
+[MASK] is the earliest flight in the morning from boston to pittsburgh	what
+[MASK] is the earliest flight leaving washington to san francisco	what
+[MASK] is the latest flight in the day to arrive in boston from baltimore	what
+[MASK] is the latest flight from san francisco to boston	what
+[MASK] is the earliest flight leaving boston on july first to dallas on july first	what
+[MASK] 's the earliest flight i can get between boston and dallas	what
+[MASK] 's the latest flight from houston to dallas	what
+[MASK] 's the last flight from houston to dallas	what
+[MASK] is the earliest flight leaving boston and going to washington on september third	what
+[MASK] is the earliest flight you have that leaves philadelphia to dallas	what
+[MASK] is the latest flight from san francisco to washington	what
+[MASK] is your earliest morning flight from indianapolis to charlotte	what
+[MASK] is the earliest flight flying from pittsburgh to atlanta on july fifth	what
+[MASK] are the early weekday flights from san francisco to pittsburgh	what
+[MASK] is the earliest morning flight leaving boston for washington	what
+[MASK] is the last flight from washington to boston	what
+[MASK] 's the earliest flight from nashville to tacoma on american on tuesday the eighteenth of may	what
+[MASK] is the latest flight leaving washington for denver	what
+[MASK] is the fare on the first flight from atlanta to denver on thursday morning	what
+[MASK] 's the latest flight i can get from dallas to boston	what
+[MASK] is the last flight to atlanta from baltimore	what
+[MASK] 's the earliest flight from san jose to houston	what
+[MASK] is the latest flight leaving las vegas for ontario	what
+[MASK] is the latest flight i can take from washington to san francisco	what
+[MASK] is the earliest flight from boston that will arrive in denver	what
+thanks and [MASK] 's the last flight back from washington to boston	what
+[MASK] is the last flight from san francisco to boston this wednesday	what
+[MASK] is the earliest flight from boston to dallas fort worth leaving august eighth	what
+[MASK] is the earliest flight that goes from atlanta to washington on thursday	what
+[MASK] 's the last flight leaving from pittsburgh to oakland	what
+[MASK] is the earliest american airlines flight leaving philadelphia for dallas	what
+[MASK] is the last flight from atlanta to boston	what
+[MASK] 's the latest flight from san francisco to atlanta	what
+[MASK] are the latest flights that i can take from baltimore to boston	what
+[MASK] 's the earliest flight leaving denver for pittsburgh	what
+[MASK] is the first flight from boston to dallas	what
+[MASK] is the last flight from dallas to boston in the evening	what
+[MASK] is the latest flight departing from boston to san francisco	what
+[MASK] is the last flight from dallas to boston	what
+[MASK] the earliest flight from boston to san francisco	name
+[MASK] is the earliest flight from boston to san francisco on american airlines	what
+[MASK] is the earliest flight from memphis to cincinnati on june thirtieth	what
+[MASK] is the first flight in the morning from boston to denver	when
+for each airline flying between boston and san francisco [MASK] is the earliest flight	what
+[MASK] is the earliest flight leaving from boston going to atlanta	what
+[MASK] is the latest return flight from atlanta to boston	what
+[MASK] is the latest flight between washington and boston	what
+[MASK] 's the first flight from boston to san francisco	what
+[MASK] is the earliest flight from memphis to las vegas	what
+[MASK] is the first flight from atlanta to boston leaving on thursday september fifth	what
+[MASK] 's the earliest flight from pittsburgh to baltimore on thursday morning	what
+[MASK] is the earliest flight from boston to denver	when
+[MASK] is the first flight leaving from oakland to boston	when
+[MASK] is the earliest flight in the morning leaving boston for baltimore	what
+[MASK] is the cheapest round trip flight from denver to atlanta	what
+[MASK] is the cheapest flight from pittsburgh to atlanta	what
+[MASK] 's the cheapest way to fly between atlanta and denver	what
+[MASK] 're the lowest one way fares from denver to atlanta	what
+[MASK] is the cheapest fare from dallas to denver round trip	what
+[MASK] is the cheapest ticket from baltimore to san francisco on friday august thirtieth	what
+[MASK] is the cheapest fare between denver and boston	what
+[MASK] 's the cheapest flight from atlanta to baltimore	what
+[MASK] is the cheapest one way fare between boston and oakland	what
+[MASK] is the cheapest fare from washington to san francisco leaving on september thirtieth	what
+flying from pittsburgh to atlanta on september fourth [MASK] would be the cheapest flight	what
+[MASK] is the cheapest flight from long beach to memphis	what
+[MASK] is the cheapest flight from boston to san francisco	what
+[MASK] is the lowest fare united charges between boston and san francisco	what
+[MASK] is the cheapest flight flying from boston to atlanta before 8	what
+[MASK] is the cheapest flight from washington to san francisco on friday	what
+[MASK] 's the lowest round trip fare from atlanta to pittsburgh	what
+[MASK] 's the cheapest flight from denver to pittsburgh for both one way and round trip flights	what
+[MASK] are the cheapest round trip flights from denver to pittsburgh	what
+[MASK] are the lowest one way fares from pittsburgh to atlanta	what
+how [MASK] is the cheapest flight from denver to pittsburgh	much
+[MASK] 's the cheapest one way flight from oakland to boston	what
+[MASK] are the cheapest flights from pittsburgh to atlanta	what
+[MASK] is the cheapest flight on american airlines from cleveland to miami	what
+[MASK] are the cheapest round trip flights from denver to atlanta	what
+[MASK] are the cheapest one way flights from denver to atlanta	what
+[MASK] 's the lowest round trip fare from dallas to baltimore	what
+[MASK] are the cheapest one way flights from pittsburgh to atlanta	what
+[MASK] 's the cheapest of the dallas to atlanta flights which are after 2 in the afternoon	what
+[MASK] 's the cheapest round trip fare between dallas and baltimore	what
+[MASK] is the cheapest round trip flight from atlanta to pittsburgh	what
+[MASK] is the cheapest one way flight from atlanta to boston	what
+[MASK] 's the cheapest flight from san francisco to milwaukee	what
+[MASK] is the cheapest fare i can get from dallas to denver	what
+[MASK] 's the cheapest flight from san francisco to denver	what
+[MASK] is the cheapest fare one way between pittsburgh and denver	what
+[MASK] 's the lowest round trip fare from dallas to any city	what
+[MASK] is the cheapest one way fare from denver to pittsburgh	what
+[MASK] is the cheapest flight from atlanta to pittsburgh one way	what
+[MASK] is the lowest fare from denver to atlanta	what
+[MASK] are the cheapest one way flights from atlanta to denver	what
+[MASK] is the cheapest flight from denver to oakland	what
+[MASK] is the cheapest round trip fare from pittsburgh to atlanta	what
+[MASK] are the cheapest one way flights from atlanta to pittsburgh	what
+[MASK] is your cheapest flight from pittsburgh to denver	what
+[MASK] is the cheapest fare from boston to san francisco	what
+[MASK] is the cheapest fare between boston and san francisco	what
+[MASK] 's the lowest round trip fare from denver to pittsburgh	what
+[MASK] is the cheapest one way fare from pittsburgh to atlanta traveling on tuesday august twentieth	what
+[MASK] is the cheapest fare from denver to pittsburgh	what
+[MASK] 's the cheapest flight from pittsburgh to san francisco on friday	what
+[MASK] is the cheapest fare from washington to san francisco	what
+[MASK] 's the cheapest one way flight from denver to pittsburgh	what
+[MASK] 's the cheapest flight from san francisco to boston	what
+[MASK] is the cheapest flight from denver to pittsburgh	what
+[MASK] is the cheapest one way fare from atlanta to boston	what
+[MASK] 's the lowest round trip fare from dallas to atlanta	what
+[MASK] is the cheapest flight from san francisco to pittsburgh on sunday	what
+[MASK] are the lowest one way fares from atlanta to pittsburgh	what
+[MASK] 's the lowest one way fare from pittsburgh to denver	what
+[MASK] 's the cheapest flight from dallas to baltimore on december seventeenth	what
+[MASK] 's the cheapest flight from baltimore to dallas on american	what
+[MASK] is the cheapest fare between atlanta and san francisco	what
+[MASK] 's the cheapest fare from san francisco to baltimore	what
+[MASK] are my options for a minneapolis back to indianapolis flight around noontime	what
+[MASK] is the fare on november seventh going one way from pittsburgh to philadelphia	what
+[MASK] is the fare for a one way flight from boston to atlanta	what
+[MASK] is the fare going from atlanta to boston one way on november seventh	what
+[MASK] is the price of a one way fare from atlanta to boston	what
+[MASK] is the fare on november seventh going one way from dallas to san francisco	what
+[MASK] is the fare going one way on november seventh from denver to oakland	what
+[MASK] is the fare on november seventh going one way from san francisco to oakland	what
+[MASK] is the fare going from boston to dallas fort worth one way on november seventh	what
+how [MASK] is a round trip fare from memphis to seattle	much
+[MASK] is the price of a one way fare from boston to denver on continental airlines	what
+[MASK] is the cost of a round trip ticket flying from boston to dallas dallas to oakland leaving july first	what
+how [MASK] is a round trip fare from indianapolis to seattle	much
+[MASK] there a flight from atlanta to san francisco on november seventh at noon	is
+[MASK] are the flights from denver to baltimore on august tenth	what
+[MASK] are the flights between dallas and pittsburgh on july eight	what
+[MASK] are flights between boston and pittsburgh on august tenth	what
+[MASK] there any flights from milwaukee to tacoma on friday june eleventh	are
+[MASK] are the flights from boston to denver on tuesday october fifteenth	what
+[MASK] are the united airlines flights between baltimore and denver on august twelfth	what
+[MASK] are the flights from tacoma to san jose also on tuesday the eighteenth of may	what
+[MASK] are the flights from nashville to tacoma on tuesday the eighteenth of may	what
+[MASK] there any flights on june tenth from burbank to tacoma	are
+[MASK] are the flights from charlotte to atlanta returning on tuesday july thirteenth	what
+[MASK] are the flights from denver to san francisco on tuesday october fifteenth	what
+[MASK] there any turboprop flights from pittsburgh to baltimore on december seventeenth	are
+[MASK] are the flights from cleveland to indianapolis for wednesday the twelfth	what
+[MASK] are the flights from indianapolis to san diego on wednesday the twelfth	what
+[MASK] are the flights from tacoma to san jose on wednesday the nineteenth	what
+[MASK] are the prices of these flights	what
+[MASK] are the cost of morning flights from atlanta to baltimore	what
+[MASK] are the fares for flights from la to newark leaving monday morning	what
+[MASK] is the airfare for flights from denver to pittsburgh on delta airline	what
+[MASK] are the fares for all flights between washington and columbus	what
+how much [MASK] a flight from washington to boston	is
+how much [MASK] a flight from washington to montreal	is
+[MASK] 's the fare from washington to boston	what
+[MASK] are the prices of the flights from dallas to baltimore	what
+[MASK] is the cost for these flights from baltimore to philadelphia	what
+[MASK] is the fare from boston to oakland on united airlines	what
+[MASK] are the fares between new york and la on monday morning	what
+[MASK] are the fares from newark to la monday and wednesday	what
+[MASK] is the price of flights from indianapolis to memphis	what
+[MASK] are the different classes of service and the prices for us air	what
+[MASK] is the cost of flights from denver to san francisco	what
+[MASK] is the cost of a flight from boston to san francisco	what
+[MASK] there a flight on american airlines from boston to denver	is
+[MASK] are all monday flights from denver to san francisco on united airlines	what
+[MASK] there a flight on delta airlines from boston to denver	is
+[MASK] are the classes of service for american airlines	what
+[MASK] are the classes of service on delta airlines	what
+[MASK] are the classes of service for continental airlines	what
+[MASK] is united airlines service between boston and san francisco	what
+[MASK] are the flights from denver to baltimore on united airlines	what
+[MASK] are the afternoon flights leaving from dallas to san francisco on american airlines	what
+[MASK] there a thursday night flight from pittsburgh to san francisco on us air	is
+[MASK] are the evening flights flying out of dallas and going to san francisco on american airlines	what
+[MASK] there any flights on us air from pittsburgh to atlanta on wednesday	are
+[MASK] there a flight on eastern airlines from boston to denver	is
+[MASK] there an early morning delta airlines flight between boston and washington	is
+[MASK] there an american airlines flight in the evening from dallas to san francisco	is
+[MASK] there any united airlines flights between boston and dallas	are
+[MASK] are the morning flights from philadelphia to dallas going on american airlines	what
+[MASK] are the afternoon flights from atlanta to baltimore	what
+[MASK] are the flights from atlanta to boston in the afternoon	what
+[MASK] are the flights from st. louis to burbank sunday evening	what
+[MASK] are the flights available in the morning between boston and denver	what
+[MASK] there wednesday morning flights between pittsburgh and boston	are
+[MASK] are the flights available in the morning between denver and san francisco	what
+[MASK] are the flights from baltimore to dallas on sunday night	what
+[MASK] are my choices of flights leaving early afternoon from minneapolis to indianapolis	what
+[MASK] are the flights from baltimore to dallas on sunday afternoon	what
+[MASK] are the evening flights from atlanta to baltimore	what
+[MASK] are the morning flights from boston to philadelphia	what
+[MASK] are the afternoon flights from denver to san francisco	what
+[MASK] are the early morning flights from boston to denver	what
+[MASK] are the afternoon flights for denver to san francisco	what
+[MASK] are the flights from san francisco to denver	what
+[MASK] there a flight leaving san francisco to denver	is
+[MASK] are the flights from new york city to las vegas	what
+[MASK] are the flights from las vegas to ontario	what
+[MASK] are my choices of flights from las vegas to new york	what
+[MASK] are all the flights between san francisco and boston	what
+what flights [MASK] continental from atlanta	has
+[MASK] there delta flights leaving denver	are
+[MASK] are the delta flights from dallas to boston	what
+[MASK] there any flights from chicago to minneapolis on saturday on continental	are
+[MASK] there a delta flight from boston to denver	is
+[MASK] are the classes of service on lufthansa	what
+[MASK] there a delta flight from denver to san francisco	is
+[MASK] are all flights to denver from philadelphia on sunday	what
+[MASK] are all flights from philadelphia to denver on wednesdays	what
+[MASK] are all flights from boston to pittsburgh on wednesdays	what
+[MASK] are the flights from milwaukee to orlando on wednesday	what
+[MASK] are the flights from milwaukee to orlando on thursday	what
+[MASK] are all flights from pittsburgh to boston on wednesdays	what
+[MASK] are the flights between memphis and cincinnati on wednesday	what
+[MASK] are flights from boston to st. petersburg	what
+[MASK] are the flights from denver to san francisco	what
+[MASK] are the flights from orlando to kansas city	what
+[MASK] are the flights from pittsburgh to denver	what
+[MASK] there any flights from atlanta to denver	are
+[MASK] are the flights from dallas to philadelphia	what
+[MASK] are your flights from dallas to baltimore	what
+[MASK] are the flights from denver to pittsburgh	what
+[MASK] are the flights from montreal to chicago	what
+[MASK] are the flights from memphis to tacoma	what
+[MASK] are the flights from milwaukee to seattle	what
+[MASK] are all the flights into atlanta 's airport	what
+[MASK] are the flights between dallas and phoenix	what
+[MASK] are all the flights from boston to dallas	what
+[MASK] are the flights from boston to orlando	what
+[MASK] are the flights from atlanta to baltimore	what
+[MASK] are your flights from pittsburgh to baltimore	what
+[MASK] are the flights from atlanta to dallas	what
+[MASK] are all of the flights into and out of atlanta 's airport	what
+[MASK] are the flights from ontario to memphis	what
+[MASK] are the flights from cleveland to dallas	what
+[MASK] are the flights from milwaukee to tampa	what
+[MASK] there any flights between philadelphia and denver	are
+[MASK] are all flights from boston to denver	what
+[MASK] 's a flight that goes from baltimore to seattle	what
+[MASK] are the flights from denver to oakland	what
+[MASK] are the flights from tampa to milwaukee	what
+[MASK] are the flights between milwaukee and pittsburgh	what
+[MASK] there any flights from atlanta to baltimore	are
+[MASK] are the flights from pittsburgh to baltimore	what
+[MASK] are the flights from boston to philadelphia	what
+[MASK] there any flights from denver to atlanta to pittsburgh	are
+[MASK] are the flights from dallas to baltimore	what
+But there [MASK] no proof .	is
+To the north in Lebanon , there [MASK] serious debate within Hezbollah about entering the Lebanese political process in light of Syria 's promised withdrawal .	is
+[MASK] is this ?	Wtf
+" We believe this is an ill - advised term and we believe that it is counterproductive to associate Islam or Muslims with fascism , " [MASK] Nihad Awad , executive director of the Council on American - Islamic Relations advocacy group .	said
+So now there [MASK] hundreds of al - Qaeda members in Iraq where there had been none before .	are
+Neither [MASK] Cheney , Rumsfeld , or Wolfowitz .	did
+There [MASK] only two counterparties at this time who have overdue margin :	are
+In addition , [MASK] there someone who could consider the correlation between US CPI and the $ / euro exchange rate .	is
+Richard , [MASK] is a list of oc invoices sent to you for approval on 5/30/00 .	below
+Stacey [MASK] is the Master draft we discussed .	here
+In addition , there [MASK] a reduction of 22,101 MMBTU which is the difference between the SCADA values ( Best Available ) that Anita showed on the February 29th Storage Sheet and the " official " February 29th values that Gary Wilson received from MIPS .	is
+there will [MASK] talent and opportunity a plenty on the market soon .	be
+As we discussed , [MASK] is a first effort at a revised TVA offer letter .	here
+[MASK] is a revised draft of the CDWR risk memo .	Here
+As we discussed , [MASK] is a copy of the draft memo .	here
+[MASK] is latest draft of risk memo ( STILL IN DRAFT FORM ) .	Here
+[MASK] there any new developments in the trader world ?	Are
+There [MASK] deals in the Aruba book so I 'm not sure why you are n't picking those up .	are
+[MASK] is a list of the risk people that will be with the estate .	Here
+" ... there [MASK] no companion quite so devoted , so communicative , so loving and so mesmerizing as a rat . "	is
+" Wei has given some virtuoso performances with brush and ink , often incorporating several different techniques into a single work , " [MASK] Gordon S. Barrass , curator of the exhibition .	said
+" What ? " [MASK] Winston , " is n't there any one here who can give me an example of a tragedy ? "	asks
+" We are so excited that the White House and the recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new Vision for Space Exploration , " [MASK] Walter Kistler , LTS co-founder and Chairman .	said
+" NASA will initiate development of a Crew Launch Vehicle derived from space shuttle solid rocket boosters with a new upper stage for human spaceflight , " [MASK] the letter , signed by NASA Administrator Mike Griffin and the Pentagon 's top space official , ex-astronaut Ron Sega ...	said
+[MASK] is this Miramar ?	What
+[MASK] are some Major land forms in Ireland ?	What
+[MASK] is artist Gunther Uecker ; explain ?	Who
+Heck there must [MASK] at least 1 korean .	be
+There may or may not [MASK] snow , depending on local weather conditions .	be
+In the ski resort areas , there will likely [MASK] man - made snow on the slopes .	be
+[MASK] 's the difference between Indian and African ringnecks and alexandrine parrots ? ?	What
+[MASK] are " good " speakers ?	What
+Well there [MASK] Mc.Donald s , Taco Bell , Burger King .....	s
+There [MASK] so much to do onboard .	is
+[MASK] is a good slogan for an Argentinian restaurant ?	what
+[MASK] are some articles that discuss the details of slogan writing .	Here
+[MASK] are some cool ideas for making a postor usint the word MAD on a white paper in a weird or artsy way ?	What
+[MASK] is the fall of hanoi ?	what
+There [MASK] plenty of cheap restaurants .	are
+[MASK] is a great list of different restaurants in San Francisco	Here
+as R - G said , there [MASK] only 16 in an American one .	are
+And there [MASK] nothing distinctly Irish about them .	's
+[MASK] there any good places to get an ice - cream sundae from in Invercargill New Zealand ?	is
+[MASK] is the best burger chain in the chicago metro area like for example burger king portillo s white castle which one do like the best ?	which
+There [MASK] currently 5 locations :	are
+[MASK] could it be ?	What
+why [MASK] there two statues of David ?	are
+[MASK] 's the best time to start a trip around the world ?	What
+[MASK] is the stocking for my 150 gallon tank i upgraded it to 200 at the weekend because of the clownloach A 200 gallon with 6 pairs of Breeding Angel fish fire mouth honey Gouramis 5 8 inch clownloach a Krib and 5 1 inch clown loach with 16 cory cats 5 Australian Rainbows	Here
+There [MASK] no lower rating for Noonan 's Liquor , owners and employees .	is
+After they showed up there [MASK] a little trouble to get my car unlocked , it took quite a bit of time but the job was well done .	was
+Strip [MASK] asian it is not !	mall
+There must [MASK] a better mexican place in Rockland .	be
+there might [MASK] bigger and more well known bagel places in the area but Family Bagels are nice people , small shop and incredibly friendly .	be
+It [MASK] unclear what might explain such gains , which have been attributed to motivation and to L2 experience during the period of ostensibly limited exposure [ 24 ] , or to factors related to general maturation , cognitive development , or continued academic training [ 18 ] .	remains
+Thus [MASK] his unprecedented and whimsical 21 - year " reign " over America .	commenced
+[MASK] 's that about ?	What
+[MASK] 's this guy ?	Who
+There [MASK] two classes of each grade , starting at the sixth and going down to the first .	were
+There [MASK] things in the shadows ; a metal pail , a mop , rags .	were
+[MASK] to the door was a tall wrought - iron candle holder — the kind that stood at either end of the altar .	Next
+There [MASK] no holder and the end was jagged .	was
+There [MASK] a rustling on the concrete and the drizzle of soft rain .	was
+And there [MASK] a heavier sound , a rasp , like a box pulled over concrete .	was
+There [MASK] a click again and the rustle , and I could not think of what it could be .	was
+“ There they are , ” [MASK] Pavit , the head house - servant , in a strained voice .	said
+However , there will [MASK] very heavy rains and flooding along its path .	be
+However , historically , there have [MASK] several events that should cause a societal response .	been
+[MASK] is Heaven Sent Gaming ?	What
+There [MASK] Jeff [ Drake ] , who is behind the camera .	's
+There [MASK] of course Jason , who is our editor and he 's the one who writes dD .	's
+[MASK] is your purpose behind this venture ?	What
+And [MASK] was the verse that we have ?	what
+There [MASK] no evidence that homeopathy is more effective than placebo for any condition .	is
+There should n't [MASK] anyone suffering from iodine deficiency in a developed country like Australia . "	be
+There [MASK] no lobbying .	was
+There [MASK] no pressure .	was
+Essentially , what we said was there [MASK] probable cause that powers had been abused and certainly cause to see that the President refused to cooperate with the constitutional responsibilities of the House of Representatives .	was
+1.1 [MASK] is Government ?	What
+So there [MASK] a lot of cool shopping in Portland , Oregon .	's
+There [MASK] even some people like meditating in there which was kind of funny .	were
+Most [MASK] among the city 's facelift projects are the Unification of Archaeological Sites - which connects the city 's classical - era ruins and monuments to each other through a network of pleasant pedestrianized streets - and the restoration of the picturesque neoclassical Thissio and Pláka districts .	notable
+There [MASK] also attractions on Coron Island itself .	are
+There [MASK] many beautiful white sand beaches , mostly tiny and surrounded by large limestone cliffs and wildlife .	are
+In the past decade , there has [MASK] a rapid influx of scuba divers and other tourists coming in , making tourism the major industry player in Coron today .	been
+But , unless you personally know the members of your audience , [MASK] are some good rules of thumb to follow :	here
+[MASK] is ReportML ?	What
+If you are familiar with Microsoft Excel PivotTable reports and want to work with the data in Excel , there [MASK] two ways to accomplish this .	are
+In the beginning , there [MASK] simply the event and its consequences .	was
+As for Quinn , there [MASK] little that need detain us .	is
+To one side of him [MASK] the park , green in the morning sun , with sharp , fleeting shadows ; to the other side was the Frick , white and austere , as if abandoned to the dead .	was
+That 's right , [MASK] Quinn .	said
+The appointment was for ten , [MASK] Quinn , glancing at his watch .	said
+It [MASK] to Quinn that perhaps Stillman was blind .	occurred
+[MASK] are these words coming from his mouth ?	What
+To his right , ensconced behind the cash register , [MASK] the boss , a small balding man with curly hair and a concentration camp number tattoed on his forearm ,	was
+There [MASK] the problem of how to occupy his thoughts as he followed the old man .	remained
+There [MASK] no clues , no leads , no moves to be made .	were
+There [MASK] , of course , certain extreme measures that they could take .	were
+There [MASK] one Paul Auster in Manhattan , living on Riverside Drive – not far from Quinn 's own house .	was
+There [MASK] no mention of a detective agency , but that did not necessarily mean anything .	was
+I 'm Paul Auster , [MASK] the man .	said
+I used to be , [MASK] Quinn .	said
+No , [MASK] Quinn .	said
+Yes . But there [MASK] one last twist .	's
+There [MASK] great beauty to it .	's
+Good afternoon , [MASK] Quinn .	said
+But you did n't make it go up , [MASK] the boy .	said
+And around and around it goes , [MASK] the boy , suddenly spreading his arms and spinning around the room like a gyroscope .	shouted
+Then [MASK] a crackling in the wires , the sound of further dialing , more voices .	came
+There [MASK] so many possibilities , he could not even begin .	were
+To me there [MASK] nothing foreign in these hats , side-locks , and fringes .	is
+" Why [MASK] I ? "	should
+" He 's so fervent , " [MASK] my wife .	says
+" I like them , " [MASK] my wife .	says
+" [MASK] is she ? "	What
+Or [MASK] there in the world by now a natural understanding of revolution , of mass organization , cadres , police rule , and secret executive bodies ?	is
+" Land of the kike home of the wop , " [MASK] Compson to himself when he buys a bun from a small Italian girl .	says
+Everybody has some con going , [MASK] John , who loves American slang .	says
+There [MASK] long days in port with nothing to do .	were
+In little pangs , [MASK] John .	said
+When the ship passed Stromboli at night , there [MASK] a streak of crimson lava flowing from the volcano and the sailors would n't leave the television set to look at this natural phenomenon .	was
+It 's the water pumped into the tanks for ballast and then pumped out again that pollutes the seas , [MASK] John .	says
+On the whole river there [MASK] nothing that looked half so nautical .	was
+Between us there [MASK] , as I have already said somewhere , the bond of the sea .	was
+Afterwards there [MASK] silence on board the yacht .	was
+And this also , [MASK] Marlow suddenly , has been one of the dark places of the earth .	said
+There [MASK] no initiation either into such mysteries .	's
+At that time there [MASK] many blank spaces on the earth , and when I saw one that looked particularly inviting on a map ( but they all look that ) I would put my finger on it and say , ' When I grow up I will go there . '	were
+But there [MASK] one yet – the biggest , the most blank , so to speak – that I had a hankering after .	was
+But there [MASK] in it one river especially , a mighty big river , that you could see on the map , resembling an immense snake uncoiled , with its head in the sea , its body at rest curving afar over a vast country , and its tail lost in the depths of the land .	was
+There [MASK] n't even a shed there , and she was shelling the bush .	was
+Pop , would [MASK] one of the eight-inch guns ; a small flame would dart and vanish , a little white smoke would disappear , a tiny projectile would give a feeble screech – and nothing happened .	go
+There [MASK] a touch of insanity in the proceeding , a sense of lugubrious drollery in the sight ; and it was not dissipated by somebody on board assuring me earnestly there was a camp of natives – he called them enemies ! – hidden out of sight somewhere .	was
+Fine [MASK] these government chaps – are they not ? he went on , speaking English with great precision and considerable bitterness .	lot
+There 's your Company 's station , [MASK] the Swede , pointing to three wooden barrack-like structures on the rocky slope .	said
+There [MASK] n't one that was not broken .	was
+Otherwise there [MASK] only an indefinable , faint expression of his lips , something stealthy – a smile – not a smile – I remember it , but I ca n't explain .	was
+Perhaps there [MASK] nothing within him .	was
+There [MASK] rumors that a very important station was in jeopardy , and its chief , Mr. Kurtz , was ill .	were
+There [MASK] no hurry .	was
+There [MASK] an air of plotting about that station , but nothing came of it , of course .	was
+there [MASK] something after all in the world allowing one man to steal a horse while another must not look at a halter .	is
+But there [MASK] a way of looking at a halter that would provoke the most charitable of saints into a kick .	is
+There [MASK] several reasons for this .	are
+It [MASK] from the hearing that the sulphur content , in particular , of both petrol and diesel could be much lower .	emerged
+There have only [MASK] a few isolated amendments opposed to this approach and these were subsequently rejected .	been
+In the first place , there [MASK] the creators .	are
+There [MASK] no clearly defined rules governing the sharing of responsibility .	are
+Since that legislation came into being , there has [MASK] no noticeable difference .	been
+There [MASK] a proper balanced way to achieve the rights that everybody here wants to see .	is
+It may [MASK] that the common agricultural policy or the trans-European transport network are higher priorities , but they are not .	seem
+There [MASK] some very clear examples of this in the recitals .	are
+At any rate , there [MASK] still quite a lot of circumvention and evasion in this area by the Member States .	is
+Then there [MASK] the famous project No-8 of the 14 very important projects endorsed by the Essen summit .	is
+There [MASK] much talk of privatisation and liberalisation .	is
+But there [MASK] a few facts that we must face .	are
+There [MASK] a number of key points that I would like to address before concluding .	are
+What [MASK] should I be to you ?	use
+There [MASK] no one to bother about shooting rights .	was
+It [MASK] their owl , a youngster who had hatched out down in the field and was heard every night .	was
+It [MASK] night in Europe all the way .	was
+There [MASK] a smell of woodsmoke ;	was
+[MASK] I recognized you in Rome .	Thought
+There 've [MASK] three other managers since then .	been
+There [MASK] no air at all in the living-room , and a strong smell of hot fat .	was
+There [MASK] another large meal , and an exchange about a bottle of white wine between Dando and his cook , Festus .	was
+In bush stations there [MASK] n't anything we were n't responsible for .	was
+What a hopeless [MASK] it was , hopeless for the D.C. and for the people .	business
+Anyone who 's stayed on is a fool if he has n't thought about that , [MASK] Bray .	said
+There [MASK] a moment in the stadium at the actual Independence ceremony when he heard it on the perimeter of the sky just as Kenyatta began to speak , and he and Vivien Bayley , the young wife of the registrar of the new university , sitting beside him , collided glances of alert apprehension ...	was
+Here [MASK] the symbolic attainment of something he had believed in , willed and worked for , for a good stretch of his life :	was
+After the State Ball there [MASK] a private all-night party in a marquee .	was
+And how [MASK] your father ?	's
+Well , here 's to three crazy people , [MASK] Wentz , excitedly picking up his glass .	said
+Oh , how do you know ? [MASK] Wentz .	said
+taking the A levels , [MASK] Wentz , innocently .	said
+There [MASK] a group in loud discussion round the empty fireplace where the beer bottles were stacked ...	was
+The past is useful for political purposes only [MASK] Hjalmar , as he might have said : she 's right .	said
+Of course , Curtis , [MASK] Hjalmar .	said
+Europe 's wars , white men 's killings among themselves . [MASK] 's that to me ?	What
+[MASK] was it ?	Who
+There [MASK] a roar again .	was
+Oh [MASK] , was it ?	Ras
+There [MASK] one of those chases about in the night that , Bray saw , Neil Bayley fiercely enjoyed .	began
+I meant " please " ! [MASK] Harry quickly .	said
+[MASK] was it to the Dursleys if Harry went back to school without any of his homework done ?	What
+This could well be the day I make the biggest deal of my career , [MASK] Uncle Vernon .	said
+Excellent , Dudley , [MASK] Uncle Vernon .	said
+And you ? [MASK] Uncle Vernon viciously to Harry .	said
+Too right you will , [MASK] Uncle Vernon forcefully .	said
+MUUUUUUM ! [MASK] Dudley , tripping over his feet as he dashed back towards the house .	howled
+On top of the fridge [MASK] tonight 's pudding : a huge mound of whipped cream and sugared violets .	stood
+Th-thank you , [MASK] Harry , edging along the wall and sinking into his desk chair , next to Hedwig , who was asleep in her large cage .	said
+[MASK] at Harry from the front seats were Fred and George , Ron 's elder twin brothers .	Grinning
+Bit rich coming from you , [MASK] Harry , staring at the floating car .	said
+Stop gibbering , [MASK] Ron , we 've come to take you home with us .	said
+If the Dursleys wake up , I 'm dead , [MASK] Harry as he tied the rope tightly around a bar and Fred revved up the car .	said
+You had to hand it to them , [MASK] Harry , as George took an ordinary hairpin from his pocket and started to pick the lock .	thought
+But as Harry climbed onto the window-sill there [MASK] a sudden loud screech from behind him , followed immediately by the thunder of Uncle Vernon 's voice .	came
+Petunia ! [MASK] Uncle Vernon .	roared
+" Definitely dodgy " [MASK] George .	agreed
+Draco Malfoy ? [MASK] George , turning around .	said
+Yeah , Mum 's always wishing we had a house-elf to do the ironing , [MASK] George .	said
+The owl Mum and Dad bought Percy when he was made a prefect , [MASK] Fred from the front .	said
+He works in the most boring department , [MASK] Ron .	said
+Lower and lower [MASK] the flying car .	went
+Touchdown ! [MASK] Fred as , with a slight bump , they hit the ground .	said
+Round the front door [MASK] a jumble of wellington boots and a very rusty cauldron .	lay
+There [MASK] a scrubbed wooden table and chairs in the middle and Harry sat down on the edge of his seat , looking around .	was
+and you ! [MASK] Mrs Weasley , but it was with a slightly softened expression that she started cutting Harry bread and buttering it for him .	said
+At that moment , there [MASK] a diversion in the form of a small , red-headed figure in a long nightdress , who appeared in the kitchen , gave a small squeal , and ran out again .	was
+That 's very sweet of you , dear , but it 's dull work , [MASK] Mrs Weasley .	said
+He 'll be fine , Molly , do n't fuss , [MASK] Mr Weasley , helping himself to Floo powder , too .	said
+I said I would buy you a racing broom , [MASK] his father , drumming his fingers on the counter .	said
+Mr Malfoy , what a pleasure to see you again , [MASK] Mr Borgin in a voice as oily as his hair .	said
+You have heard , of course , that the Ministry is conducting more raids , [MASK] Mr Malfoy , taking a roll of parchment from his inside pocket and unravelling it for Mr Borgin to read .	said
+Not with me , [MASK] Mr Malfoy , his long nostrils flaring .	said
+Yer a mess ! [MASK] Hagrid gruffly , brushing soot off Harry so forcefully he nearly knocked him into a barrel of dragon dung outside an apothecary 's .	said
+Ruddy Muggles , [MASK] Hagrid .	growled
+I should ruddy well think not , [MASK] Hagrid .	growled
+There [MASK] a very small pile of silver Sickles inside , and just one gold Galleon .	was
+Perhaps it [MASK] the seriousness of our business that pushed us both into laughter , extremes of emotion so easily tumbling into their opposites .	was
+It [MASK] not myself I fell in love with it was her .	was
+Across the room [MASK] a Snow Queen 's mirror , its pieces scatters of despair .	was
+Out [MASK] Athene tall strong beautiful and her father 's own .	came
+' You must be bored there , ' [MASK] my mother .	said
+' Wo n't hurt , ' [MASK] Grandmother .	said
+There [MASK] no foundation to this , only my grandmother 's absolute refusal to fit an inside toilet or to attend any of my mother 's Tupperware evenings .	was
+' Mob rule , ' [MASK] my father who was thinking of moving to Southampton .	said
+' Come out , ' [MASK] Grandmother .	said
+On the kitchen table [MASK] a brand-new bright blue Danette turntable .	was
+On the turntable [MASK] a 45r.p.m. of the Beatles singing ' Help ! '	was
+' No , ' [MASK] Grandmother .	said
+' There [MASK] no sea there is there ? '	's
+' [MASK] n't you ? '	Did
+There [MASK] men there he knew , idle like him , and they envied him his money and although he was not stupid enough to envy them their poverty , there was part of him that regretted all he had done .	were
+There [MASK] nothing of the whore about her and this my father liked .	was
+' I 'm quite sure that it will be at least a week before the birth , ' [MASK] my mother who immediately went into labour .	said
+So [MASK] is the answer ?	what
+Or [MASK] there a coherence , perhaps a beauty , if it were possible to find it ?	is
+[MASK] was the night vessel , the vessel on oily waters , his was the light shining in the darkness , come home , come home .	His
+Here [MASK] the secrets of irresistible skin and salt smells of pearl and oyster .	were
+Not [MASK] the floral notes of the high-octave female .	here
+' He was a flirt even then , ' [MASK] Stella .	said
+There [MASK] a terrific rattling and thundering at the door and my mother and father burst into the hall ; she in a silver fox , he in a new overcoat and trilby .	was
+There [MASK] a wind in the room that tore the drink out of the drinkers , that scattered the bar bottles like bottle tops , that levitated the furniture and smashed it into the tranced wall .	was
+A very good [MASK] she was ; breaking into Yiddish , into Italian , into German , accenting and gesturing , turning now into a claque of elderly Jews , now into a frightened small boy .	performer
+' Yet , ' [MASK] the Oilskin .	said
+There [MASK] currently no simple way for the system administrator to create new logon accounts to the locally installed SQL Server database except by using SQL Tools or Transact-SQL ( TSQL ) commands .	is
+[MASK] are XML schemas	What
+Across the way , occupying the greater part of the station 's east wall , [MASK] the Kodak display photograph , with its bright unearthly colors .	was
+[MASK] to the pen was a little white paper flag , one side of which read : This good article is the Courtesy of a DEAF MUTE .	Stapled
+On the other side of the flag there [MASK] a chart of the manual alphabet – LEARN TO SPEAK TO YOUR FRIENDS – that showed the hand positions for each of the twenty-six letters .	was
+There [MASK] several pimples on her left cheek , obscured by a pimpish smear of pancake makeup , and a wad of chewing gum was crackling in her mouth .	were
+That might be , [MASK] Auster .	said
+[MASK] are you then ?	Who
+If that 's true , then there [MASK] no hope .	's
+No , [MASK] Auster , who had listened attentively to Quinn 's monologue	said
+You see , [MASK] Quinn , I 'm not making it up . I even have proof .	said
+Well , it 's yours , [MASK] Quinn .	said
+There [MASK] one thing I 'll do for you , though .	's
+All right , [MASK] Quinn at last .	said
+Yes , [MASK] Quinn after a long silence .	said
+Beyond that point there [MASK] nothing : the random thoughts of men who knew nothing .	was
+But in these days of armored attacks on Yom Kippur , of Vietnams , Watergates , Mansons , Amins , terrorist massacres at Olympic Games , [MASK] are illuminated manuscripts , what are masterpieces of wrought iron , what are holy places ?	what
+Opposite it there [MASK] olives still , which Arabs are harvesting with long poles .	are
+Instead , there [MASK] boys stern and joyous , galloping hell-bent on their donkeys toward the Lions ' Gate .	are
+Perhaps there [MASK] a certain Vautrin-admiring romanticism in this .	is
+A simple formality [MASK] me the secretary , with an air of taking an immense part in all my sorrows .	assured
+[MASK] that question in the interests of science too ?	Is
+Every doctor should be – a little , [MASK] that original , imperturbably .	answered
+If I were , [MASK] I , I would n't be talking like this with you .	said
+[MASK] there any idea at all connected with it ?	Was
+There [MASK] no need to open the big shutter to see .	was
+Suddenly there [MASK] a growing murmur of voices and a great tramping of feet .	was
+In other words , there [MASK] a conflict between the parafiscal and fiscal aims ; you can not have your cake and eat it .	is
+In one amendment , there [MASK] a call for the inclusion of pure and simple renewal of vineyards in the restructuring measures .	is
+There has [MASK] excellent cooperation on this highly technical proposal .	been
+There [MASK] silence and then he heard that there were voices in the silence droning somewhere , breaking off for breath , laughing – not softly , but softened by being almost out of earshot .	was
+There [MASK] – or used to be – leopards on the outskirts of the town ; Dando had once had his dog taken .	were
+But there [MASK] the President , now .	's
+There [MASK] a famous newspaper interview where he had called Mweta that golliwog from Gala , raising its unruly and misguided head in the nursery of industrial relations in this young country .	was
+It 's enough to make your hair stand on end , [MASK] Dando ; and enjoyed the effect .	said
+On top of a cupboard in the corner [MASK] Dobby .	crouched
+There [MASK] screams from the dining room and Uncle Vernon burst into the kitchen to find Harry , rigid with shock , covered from head to foot in Aunt Petunia 's pudding .	were
+Do n't be so ridiculous , Fred , [MASK] Mrs Weasley , her cheeks rather pink .	said
+There [MASK] a violent scuffling noise , the peony bush shuddered and Ron straightened up .	was
+He 's back ! [MASK] George .	said
+Find anything , Dad ? [MASK] Fred eagerly .	said
+Just Muggle-baiting , [MASK] Mr Weasley .	sighed
+Yes , Arthur , cars , [MASK] Mrs Weasley , her eyes flashing .	said
+[MASK] , really , how many ways Muggles have found of getting along without magic .	Ingenious
+' And [MASK] he ? '	did
+There [MASK] compensations .	were
+' Oh not yet , ' [MASK] my mother .	said
+There [MASK] many legends among seafaring people of a bright fish so hot that it shines in the deepest water , a star dropped and finned from God , an alchemical mystery , the union of fire and water , coniuntis oppositorum that transforms itself and others .	are
+' [MASK] that why you 're doing it ? '	Is
+' London , ' [MASK] my grandmother , pronouncing it Hell .	said
+' Where [MASK] the difficulty in that ? '	's
+In space-time there [MASK] always a lag between prediction and response ( synchronicity is a higher dimension phenomenon where the rules of space-time do not apply ) , sometimes of seconds , sometimes of years , but we programme events far more than we like to think .	is
+' I see why he likes you , ' [MASK] Stella , examining my neck with her fingers .	said
+There [MASK] a shuddering , as though the world-clock had stopped , though in fact it was our own ship that had thrown its engines in reverse .	was
+There [MASK] a fifteen-minute check-in time and my father walked across the tarmac and boarded the twin-propeller plane with only his toothbrush to declare .	was
+' Harpoon Ahoy ! ' [MASK] my father .	said
+There may [MASK] no contents .	be
+There [MASK] also small migrant Eegimaa communities in villages like Djifanghor ( east of Ziguinchor ) and in Bourofaye ( south of Ziguinchor ) , where they cohabit with speakers of Baïnounk languages .	are
+“ [MASK] there really much more logic in the opposite extreme which denies any kind of sound symbolism ( apart from the small class of evident echoisms and ‘ onomatopoeia ’ ) and sees in our words only a collection of accidental and irrational associations of sound and meaning ? ...	Is
+There [MASK] no denying that there are words which we feel instinctively to be adequate to express the ideas they stand for . ”	is
+Anyway , there [MASK] this guy in his fifties , out there dancing , by himself .	was
+There [MASK] no proble- .	's
+“ Fucking airsurfers , ” [MASK] Derya .	says
+At the 131st , below her , [MASK] the old Stock Exchange , hung upside - down now as a hipster den .	is
+There [MASK] heaps of yellowed euros and deutschmarks dumped here , like snowdrifts .	are
+The [MASK] that no one picked for their side at football or hockey , and that was the glue that held us together .	bunch
+Then there [MASK] the event that became the rite of passage into our group of misfits and outcasts : making a mould of your teeth .	was
+[MASK] are your thoughts on the job Barack Obama has done as president ?	What
+[MASK] is the most important aspect of your background that voters should know about ?	What
+[MASK] are your thoughts on the job Bob McDonnell has done as Governor of Virginia ?	What
+There [MASK] precedents of independent governors dealing effectively with the legislature , and indeed a wise third - party governor can have greater effectiveness than a major party governor .	are
+" We want to thank all of the locations that expressed an interest in one of these national treasures , " [MASK] Bolden to the gathered crowd which contained many KSC employees .	said
+" Document found on street not secret , [MASK] feds " — The Canadian Press , August 15 , 2008	say
+There [MASK] no time to lose .	is
+[MASK] are the postulates of Dalton ’s atomic theory .	Here
+So there [MASK] nothing too special about the bed itself , but it does have a very important function , which , it has a lot of storage .	's
+Just [MASK] of Broadway and continuing north and south is Oakland 's famous Chinatown , and that to get the real essence of " Chinatown , " Oakland rather than San Francisco is your best bet .	east
+Just [MASK] of Downtown and slightly north of the Financial District is Uptown .	west
+Northeast of Temescal and near the Berkeley border [MASK] Rockridge , a neighborhood mixed with family friendly and artistic vibes .	lies
+South of Rockridge , and southeast of Temescal [MASK] Piedmont Avenue , a street extending from Broadway near 34th and Hawthorne and an area with a group of hospitals on a hill ( Pill Hill ) up and through a neighborhood bordered on both sides by picturesque hills , houses and trees .	lies
+There [MASK] numerous places to stay to suit most budgets .	are
+These days there [MASK] around 20000 people living in the Group .	are
+From May to September there [MASK] southeast trade winds but during the summer months the winds are from the northeast .	are
+There [MASK] some good beaches and plenty of secluded cove beaches and protected bays with good snorkelling .	are
+There [MASK] no need to cover them , unless you want to use netting to keep the birds off .	's
+There [MASK] electronic units sold that emit an ultrasonic beeping sound that rodents hate .	are
+[MASK] are the coach flights between dallas and baltimore leaving august tenth and returning august twelve	what
+[MASK] there any flights from new york to montreal canada leaving on thursday	are
+[MASK] is restriction ap80	what
+[MASK] are the nonstop flights on america west or southwest air from kansas city to burbank on saturday may twenty two	what
+[MASK] there ground transportation from the memphis airport into town when if i arrive at 842 in the morning	is
+[MASK] are the flights on mondays that travel from charlotte north carolina to phoenix arizona	what
+[MASK] there a red eye flight from san jose to nashville on wednesday the nineteenth of may	is
+[MASK] is restriction ap 55	what
+[MASK] is restriction ap 80	what
+[MASK] is the lowest fare from bwi to salt lake city	what
+[MASK] is the flight number for the us air flight from philadelphia to boston is it 279 or is it 137338	which
+[MASK] is the earliest flight from boston to bwi that serves a snack	what
+[MASK] bwi washington	is
+[MASK] are the cities that american airlines serves	what
+[MASK] is the cost of limousine service in philadelphia	what
+[MASK] is phl	what
+[MASK] there ground transportation from lga into new york city	is
+[MASK] is tpa	what
+how [MASK] is toronto international from downtown	far
+how [MASK] is los angeles international from downtown	far
+[MASK] is the first flight from boston to stapleton airport for tomorrow	what
+[MASK] is the seating capacity of a dc9	what
+[MASK] is the seating capacity for delta be1	what
+[MASK] there a flight between oakland and boston with a stopover in dallas fort worth on twa	is
+[MASK] are the most expensive first class tickets between boston and san francisco	what
+[MASK] are the least expensive flights from denver to atlanta	what
+[MASK] are the flights from cleveland to indianapolis on wednesday may twelfth on either twa delta or continental	what
+[MASK] is fare code qw	what
+[MASK] is the latest flight from boston to denver that serves a meal	what
+[MASK] is a d9s	what
+[MASK] is the earliest flight between baltimore and oakland that serves breakfast	what
+[MASK] is the first flight that goes from atlanta to baltimore that serves breakfast	what
+what [MASK] of airplane is flight ua 281 from boston to denver	kind
+[MASK] is the price of american airlines flight 19 from new york to los angeles	what
+[MASK] is the first class fare on united flight 352 from denver to boston	what
+what [MASK] is dl 98	airline
+[MASK] is ground transportation between the san francisco airport and the city	what
+and [MASK] is the last flight from denver to boston for tomorrow evening	what
+[MASK] is the earliest flight arriving in charlotte from st. louis on friday	what
+[MASK] is the latest flight on wednesday going from atlanta to washington dc	what
+[MASK] is the cheapest first class fare from cleveland to miami on us air on february twenty fourth	what
+[MASK] is the cheapest one way fare from san francisco to boston on wednesday august twenty first	what
+[MASK] is hp	what
+[MASK] airline us	define
+what [MASK] is yx	airline
+what [MASK] is dl	airline
+[MASK] there any airlines that have flights from boston to philadelphia that leave before 630 am	are
+[MASK] is the earliest nonstop flight from washington to san francisco	what
+how [MASK] is a first class ticket from baltimore to san francisco	much
+[MASK] are the first class fares from dallas to baltimore	what
+[MASK] are the coach fares for flights from pittsburgh to denver	what
+[MASK] are the flights on tuesday october first from atlanta to baltimore	what
+[MASK] are the coach fares from la to charlotte monday morning	what
+[MASK] there any flights from denver to pittsburgh with stops in atlanta	are
+[MASK] there any flights from boston to san francisco which stop in denver	are
+[MASK] there any flights from denver to atlanta with stops in pittsburgh	are
+[MASK] is the available ground transportation between san francisco and downtown	what
+[MASK] there a flight between philadelphia and denver that leaves philadelphia around 2 o'clock in the afternoon	is
+[MASK] there a flight around 3 pm from charlotte to minneapolis	is
+[MASK] is the last flight from baltimore to boston	what
+[MASK] 's the latest flight from san jose to houston	what
+[MASK] is the earliest flight from pittsburgh to san francisco	what
+[MASK] 's the last flight from atlanta to boston	what
+[MASK] is the shortest flight from milwaukee to st. petersburg	what
+[MASK] is the earliest flight you have leaving boston heading to philadelphia	what
+[MASK] is the earliest flight from boston to san francisco	what
+[MASK] is the last flight from boston to atlanta	what
+[MASK] is the earliest flight leaving denver going to boston	what
+[MASK] is the earliest flight from ontario to memphis	what
+[MASK] is the earliest flight from atlanta to boston	what
+[MASK] is the last flight leaving san francisco going to washington on friday	what
+[MASK] is the earliest morning flight from san francisco to boston	what
+[MASK] 's the earliest flight from dallas to houston	what
+[MASK] is the latest evening flight leaving san francisco for washington	what
+[MASK] is the first flight from boston to atlanta and what is the last flight from atlanta to boston	what
+[MASK] 's the cheapest one way ticket from baltimore to atlanta	what
+[MASK] 's the cheapest round trip fare between boston and washington	what
+[MASK] is the cheapest round trip fare between boston and san francisco	what
+[MASK] is the cheapest round trip fare from atlanta to pittsburgh	what
+[MASK] is the cheapest fare from baltimore to dallas in any class	what
+[MASK] is the cheapest one way fare from boston to washington	what
+[MASK] is the cheapest fare from dallas to denver on delta	what
+[MASK] 's the lowest round trip fare from denver to atlanta	what
+[MASK] is the cheapest flight from boston to atlanta	what
+[MASK] are the lowest one way fares from atlanta to denver	what
+[MASK] is the cheapest one way fare from any city to another	what
+how [MASK] is a round trip fare from nashville to seattle	much
+[MASK] is the fare going from baltimore to boston one way on november seventh	what
+[MASK] is the fare going from baltimore to atlanta one way on november seventh	what
+[MASK] there any flights from long beach to columbus on wednesday april sixth	are
+[MASK] are the flights between pittsburgh and baltimore on august tenth	what
+[MASK] are the flights from san jose to nashville on thursday the twentieth	what
+[MASK] are the fares for flights from charlotte to newark on tuesday and wednesday	what
+[MASK] is the airfare between denver and pittsburgh	what
+[MASK] are the flights and prices from la to charlotte for monday morning	what
+[MASK] are the flights dallas to boston on monday morning	what
+[MASK] are the flights from milwaukee to orlando on wednesday night	what
+[MASK] are all the flights on delta in and out of fort worth	what
+[MASK] are the american flights from phoenix to milwaukee	when
+[MASK] are all flights from denver to philadelphia on saturday	what
+[MASK] are all the flights available between pittsburgh and dallas fort worth	what
+[MASK] are the flights from memphis to las vegas	what
+[MASK] are the flights from boston to san francisco	what
+[MASK] about flights from boston to san diego	what
+[MASK] are the flights from pittsburgh to oakland	what
+[MASK] are the flights from chicago to indianapolis	what
+[MASK] are the different classes that an airline offers	what
+[MASK] are your flights from denver to baltimore	what
+For many scientific fields , however , there [MASK] no central listing of all tenure - track faculty , making it difficult to define a rigorous sample frame for analysis .	is
+There [MASK] some egregious examples of this practice in the field of health care .	are
+There [MASK] two distinct claims being made here : 1. that Huh ? is universal , and 2. that Huh ? is a word .	are
+There [MASK] different type of lighting bulbs used at home can affect the overall lighting consumption .	are
+In [MASK] to this is the harmful effect of mercury such as Emission of UV Radiation .	addition
+There [MASK] three general types of lighting that are widely used in the household nowadays : the ( light - emitting diode ) LED bulb , ( compact fluorescent light ) CFL bulb and the incandescent bulb .	are
+There [MASK] plans to initiate an uprising during his funeral , but during the same time frame the leaders heard of General Jean Maximilien Lamarque 's death , and the rising was postponed without any uprising occurring until 5 June .	were
+To this period [MASK] " Ōtsugomori " ( " On the Last Day of the Year " ) , " Nigorie " ( " Troubled Waters " ) , " Wakare - Michi " ( " Separate Ways " ) , " Jūsan'ya " ( " The Thirteenth Night " ) and " Takekurabe " ( " Child 's Play " ) .	belong
+Next [MASK] a stay of at least several months , or possibly years , with Rufinus at Aquileia , where he made many Christian friends .	came
+Hence , there can [MASK] no fully exact translations . "	be
+While the impact of a translation may be close to the original , there can [MASK] no identity in detail .	be
+There [MASK] a- in there .	's
+There [MASK] a hole in it .	's
+Well , there [MASK] a hole , no , if you 're thinking there 's a hole , think again .	's
+Because , there [MASK] no hole in the counter at all .	's
+In the beginning of the year there [MASK] a lot of classroom work .	was
+And I mean , there [MASK] , millions of ligaments , and millions of tendons , you know , well not millions , but , I mean ...	's
+Th- there [MASK] a white line , that you go by , and a horse has this little white line , and you clean it out with the — with the hoof knife .	's
+You know , there [MASK] n't really any girl farriers around anywhere .	is
+[MASK] is what they 're called .	Farrier
+There are there [MASK] mysteries in this house that I 'm not even aware of .	are
+There [MASK] another one for Dad down there .	's
+[MASK] you ?	Will
+There might [MASK] a little conflict of interest .	be
+[MASK] n't it ?	Is
+Oh [MASK] it ?	is
+[MASK] it ?	Is
+[MASK] it —	Is
+Oh [MASK] 's one you can open .	here
+Well , [MASK] 's this from ?	who
+So [MASK] Erasmus .	reasoned
+[MASK] n't they ?	Did
+There [MASK] not enough lemon there to bother me .	's
+Well [MASK] was it ?	what
+Who – [MASK] was it that 's –	who
+Well , [MASK] was her story about Barb ?	what
+No there [MASK] two different wa- –	's
+And then there [MASK] other kids who go , na-na-na-na-za-ba-da ?	's
+And there 'll [MASK] a word in there somewhere ?	be
+And there [MASK] a –	's
+There 's no l- , there [MASK] no lead , or there 's no focus .	's
+[MASK] you ?	Do
+There [MASK] n't no telling .	ai
+[MASK] it ?	Will
+Here and there [MASK] bits of charred debris in the gutters .	were
+And with those mistakes would [MASK] death to billions of innocent , unsuspecting lives .	come
+Then there [MASK] the Enemy starfighters themselves : hundreds at least , swarming about like a huge wall of locusts .	were
+Hundreds of millions ? [MASK] Chalmers .	thought
+There [MASK] just a desk , a little white table with two chairs and a scale .	’s
+“ Oh ! ” [MASK] my mother .	says
+In the [MASK] , shining , is Renata , who is young and healthy and good , raising her arm to show her grandmother that the chip is nothing , nothing at all .	background
+There [MASK] some horrible fate impending for Sonia and I had to kill her before something worse happened .	was
+" I think you did die , " [MASK] my best and only friend .	said
+[MASK] it is that the common Manhattan water - pixie uses for blood .	Whatever
+“ [MASK] is it they say in yoga class ?	What
+“ S’ not true ! ” [MASK] a voice from inside the nose in question .	came
+“ Stop that now ! ” [MASK] the voice again .	came
+“ No thanks to you ! ” [MASK] the little voice .	came
+“ That ’s leprechauns , idiot ! ” [MASK] the voice from my noise .	said
+“ Oh , I ’m happy to stick around , ” [MASK] the voice .	came
+“ Perhaps I do n’t know the answers anyway ? ” [MASK] the voice .	said
+“ You could see things like that … ” [MASK] the voice with resignation .	said
+Slower and slower [MASK] the circling hands until the thousands one seemed motionless and the daily one was no longer a mere mist upon its scale .	went
+There [MASK] no breakers and no waves , for not a breath of wind was stirring .	were
+And along the [MASK] where the water sometimes broke was a thick incrustation of salt — pink under the lurid sky .	margin
+There [MASK] a sense of oppression in my head , and I noticed that I was breathing very fast .	was
+Then there [MASK] a big problem on Earth , and the people of Earth forget we are here .	is
+Sometimes there [MASK] gunfire outside and we jumped , even Mam on the bed .	was
+There [MASK] not that much money in fundamental science at the moment , so I try to cut the costs wherever possible .	's
+There [MASK] more magicians working today than ever before .	are
+There will always [MASK] an audience for good magicians doing good magic .	be
+Well there [MASK] no defense against Soviet aggression , so whether you believe that doctrine or not that ’s gone .	’s
+When the Soviet Union collapsed there had [MASK] an agreement , a recent agreement , between Gorbachev and the U.S government and the first Bush administration .	been
+I mean there [MASK] certainly signs of it , and in the United States too , in fact we had a sit down strike in the United States not long ago , which is a very militant labor action .	’s
+[MASK] are your thoughts about Rick Santorum ’s views on gay rights ?	What
+There [MASK] a return trip planned hopefully for 2015 , with both biologists and ANDRILL geologists .	's
+There [MASK] a misconception in this industry .	's
+If you look at the rooms , there [MASK] all the accouterments you 'd find in these types of places -- but more than anything , there 's a lot of good feeling around here .	's
+There [MASK] supplies , and there 's wear and tear and maintenance , and bookkeeping and things like that that you have to do .	's
+[MASK] there a particular LibriVox book which you think stands out because of the quality , the overall effort involved , its popularity , or for some other reason ?	Is
+Besides works whose copyright has expired , there [MASK] an increasing number of modern books available under Creative Commons and similar licenses .	is
+Also , there [MASK] other sites , notably podiobooks.com , which are better suited to CC works than LibriVox .	are
+[MASK] there anything similar with The Onion where they continually revisit a topic or person ?	is
+There [MASK] an understanding in the room .	is
+There [MASK] a 24 hour comedy news cycle that exists on all the late night talk shows .	’s
+On the other hand , there [MASK] already machines that can replace our memory .	are
+And there [MASK] already Arabs who did it .	are
+There [MASK] a whole topic which is called asymptotic groups theory .	is
+There [MASK] groups which express the symmetry of some structures .	are
+And there [MASK] another topic which is very important in mathematics which is called representation theory .	is
+There [MASK] seventy beginning of stories without ends .	are
+[MASK] 's what we know .	Here
+There [MASK] a wonderful quote attributed to Einstein — " If we knew what we were doing , it would n't be called " research " , would it ? "	is
+How [MASK] would the samples be ?	big
+There [MASK] also two Syrian teams scheduled to compete , one national and one made up of refugees .	were
+" Seventeen years ago , this would not have been possible at all , " [MASK] Ambassador Mohib .	said
+There [MASK] [ sic ] something in the hilarious anarchy of the net that produces these ' events ' every now and again . "	s
+It ’s an interesting tool , created to overload / create malformed strings and crash a website ’s database , " [MASK] the post by an unknown author on pigmy .	said
+Six shells of them hit the area near KPA civil police posts 542 and 543 and other 15 shells fell near KPA civil police posts 250 and 251 " , [MASK] KCNA .	said
+" Commanders of the Korean People 's Army were hastily dispatched to the front - line troops to command military operations to destroy psychological warfare tools if the enemy does not stop the propaganda broadcast within 48 hours and prepare against the enemy 's possible counteractions " , [MASK] KCNA .	added
+There [MASK] even a section of lanterns sponsored by foreign countries .	is
+While USI is holding its exhibit , there [MASK] also Warhol Polaroid exhibits at the Tang Teaching Museum and Art Gallery at Skidmore College in Saratoga Springs , New York and an Edward Steichen and Andy Warhol exhibit at the Mary & Leigh Block Museum of Art at Northwestern University in Evanston , Illinois .	are
+" I think America 's obsession with celebrity culture is as strong today as it was when Warhol was living " , [MASK] Gustafon .	said
+There [MASK] no way the citizen scientists can install an AirBox there , even if they 're very good at drones and so on .	's
+There [MASK] no resting for any one of us till we redeem our pledge in full , till we make all the people of India what destiny intended them to be .	is
+[MASK] are the Speaker ’s remarks :	Below
+Of course , we all – there [MASK] not anyone on our side of the aisle who has advocated any policy in this body to defund the police , contrary to misrepresentations that are coming forth .	's
+At this time of transition and dysfunction in global power relations , there [MASK] a new risk looming on the horizon that may not yet be large but it is real .	is
+There [MASK] much to do , and we are ready to get to work .	is
+When he became chairman of this city committee , there [MASK] 300,000 more Republicans registered in the city of Philadelphia than Democrats , and it is a source of satisfaction to me that tonight there are 260,000 more Democrats registered .	were
+But there has [MASK] no change in my concept of the goals which this country must strive for if it is to meet its responsibilities to its people and those who depend upon it .	been
+There [MASK] still too many men and women , particularly young men and women , unable to find work .	are
+There 's [MASK] no crowd like this .	been
+[MASK] was the last time anybody saw us beating , let 's say , China in a trade deal ?	When
+[MASK] was the last time you saw a Chevrolet in Tokyo ?	When
+[MASK] there Moral Facts ?	Are
+There [MASK] just too many possible moral truths and too many ways in which evolution could have “ pushed ” our moral beliefs .	are
+[MASK] is resilience and grit ?	What
+There [MASK] three main motivation concepts that have been found to directly relate to learning .	are
+Most [MASK] are their giant head sculptures ( Figure 1.4 ) and the pyramid in La Venta .	recognizable
+Among [MASK] were the Pyramid of the Sun ( which is two hundred feet high ) and the Pyramid of the Moon ( one hundred and fifty feet high ) .	these
+Here [MASK] the pasta .	comes
+[MASK] are you ?	How
+Um , as you guys see there [MASK] only two products , but of course I 'm going to be expanding .	's
+There [MASK] even honey in here .	's
+So there [MASK] , like , really jam - packed vitamins , nutrients in this formula .	are
+There [MASK] even horsetail in here , which is amazing for hair growth .	's
+With all of my products [MASK] normally like a pretty natural smell .	are
+Alright [MASK] it is .	here
+There [MASK] a grizzly bear and two babies that were hanging out up here .	's
+[MASK] ’s Marianne .	There
+There ’d [MASK] no poison ivy , right ?	be
+But there [MASK] so many pretty ones !	’s
+How [MASK] would that be ?	beautiful
+There [MASK] nothing I really feel like eating .	's
+But there [MASK] things that I do n't want to have , so like coffee , I just know that I do n't want that , and all I want is beige :	's
+[MASK] 's your recap ?	What
+So [MASK] was your favorite ?	what
+As part of New Zealand , there [MASK] no passport or visa requirements and no border controls on arrival from the mainland .	are
+There [MASK] no same - day return flights , so once there you have to stay at least one night .	are
+There [MASK] several businesses on Chatham Island that will rent you a vehicle .	are
+There [MASK] many views on why they did these carvings , but whatever the reason , you will find them a very special attraction .	are
+When applying to the Cuban Consulate by post , there [MASK] a new charge introduced in 2011 which is a £ 25 for a non-personal transaction .	is
+Because Fort Lee is situated above the banks of the Hudson River , there [MASK] breathtaking views from almost any window facing the river .	are
+Since fort lee is situated in such a convenient area for those commuting to and from the city , there [MASK] often high traffic and congestion on the roads .	is
+For local transportation or air - port / train station services , there [MASK] several local taxi companies that are reliable .	are
+Other than eating , or shopping , or shopping for food , there [MASK] not much else to do unless you work in Fort Lee .	is
+There [MASK] an abundance of supermarkets , one the most famous and unique being Caffasso ’s Fairway Market .	is
+There [MASK] also many nail salons , frozen yogurt shops , coffee shops and gas stations .	are
+There [MASK] tons of specialty boutiques and gourmet caterers , as well as clothing and sporting good retailers .	are
+Also on Main St. [MASK] Metropolitan Plants , a haven for flower lovers , with a very large selection of products for gardeners .	is
+There [MASK] daily flights to Tehran and Mashhad in Iran .	are
+There [MASK] also flights to Damascus , Dubai , Kuwait and Istanbul .	are
+There [MASK] a tunnel from the mosque to the Royal Palace , across the square .	is
+There [MASK] floral , animal and bird motifs .	are
+Incidentally , there [MASK] twenty columns , and these are reflected in the pool in front , which might also account for its name .	are
+Downtown , there [MASK] hotels and restaurants to suit every budget .	are
+There [MASK] no Terminal 1 .	is
+However there [MASK] four hotels in Hadibo : Taj Socotra Hotel , Hafijj Hotel , Socotra Hotel , and Summer land Hotel .	are
+Fortunately , there [MASK] a restaurant in each of the hotels with simple yet delicious cuisine .	is
+In addition , there [MASK] also another hotel at the airport as well as multiple guest houses around the island .	is
+There [MASK] several campsites that allow tourists to barbeque on the beach with beautiful mountain views in the background .	are
+There [MASK] also plans for new harbor facilities that will allow fisherman to sell and catch more easily and make importing food and fuel simpler .	are
+In addition , there [MASK] also two information centers located at the airport and Hadibo .	are
+There [MASK] flights from Sana'a via Al Mukalla .	are
+There [MASK] also flights from Sharjah via Al Mukalla .	are
+There [MASK] a public bus from the airport to Hadibo and from Hadibo to Qalansia .	is
+Beside these two buses , there [MASK] no public transport , but car rental with driver is available .	is
+There [MASK] a lot of walking and hiking along with camel back rides available .	is
+There [MASK] also the Desert Rose ( adenium obesium ) which looks like a blooming elephant leg .	is
+There [MASK] so much beauty all around the island , it is difficult not the appreciate to magnificent scenery and wildlife .	is
+There [MASK] strong local movements to convert the area into a National Park .	are
+From Langeland there [MASK] ferries to some other islands .	are
+From Spodsbjerg on Langeland there [MASK] a ferry connection across the great belt to Tårs on Lolland .	is
+There [MASK] several mapped routes in the area , but remember to be realistic about your fitness , as some of these routes take you a fair bit away from land .	are
+There [MASK] some nice beaches and good fishing once you 've toured the island .	are
+Among Thais , there [MASK] strict rules of hierarchy that dictate how and when the wai should be given .	are
+There [MASK] not much snow , just a few inches each year , typically , although in 2007 and again in 2008 there were rather large " ice storms " .	is
+[MASK] 's their personality like ?	What
+There [MASK] different styles and types of shoes , so ask your ballet teacher or a salesman at the store for advice , given your intentions for dancing .	are
+There [MASK] perennial basils which come back year after year , like African Blue Basil ( which has pretty blue veins on its leaves ) and Thai Basil , while most other varieties are annuals , which you 'll have to plant year after year .	are
+If you look closely , at the base of every leaf [MASK] two tiny little leaves that will grow outwards if the stem growing between them is cut off .	are
+[MASK] 's a great vegan cupcake recipe to use as a base for whatever flavored icing you want to add to it .	Here
+There [MASK] no reason to be nervous when it comes to IM flirting —	's
+There [MASK] a minuscule chance that your impact will result in non-life-threatening injuries ; if this seems incredibly far - fetched , comfort yourself that double chute failure in modern times is also extremely unlikely , and that you have already beaten worse odds .	is
+There [MASK] many different ways of playing Quidditch , but the most commonly used set of rules are those given by the International Quidditch Association ( which can be found here ) .	are
+There [MASK] a very large Quidditch community , have a look at the IQA website to find teams near you .	is
+At the back table [MASK] two old men in shabby clothes , one very fat and the other very thin , intently studying the racing forms .	sat
+Dave Kingman is a turd , [MASK] Quinn , biting into his hamburger .	said
+But watch out for Foster , [MASK] the counterman .	said
+Yeah , [MASK] the counterman .	said
+I do n't know , [MASK] Quinn , taking another bite .	said
+There [MASK] still Rusty , of course , but he 's too fat to run anymore .	's
+Maybe I make you the manager , [MASK] the counterman .	said
+You bet your bottom dollar , [MASK] Quinn .	said
+There [MASK] no one else .	was
+But there [MASK] a certain comfort in that .	was
+There [MASK] light bulbs representing the stars and line drawings of the celestial figures .	were
+There [MASK] bread and butter , more beer , knives and forks , salt and pepper , napkins , and omelettes , two of them , oozing on white plates .	was
+One of my favourite books , [MASK] Quinn .	said
+There [MASK] nothing like it .	's
+[MASK] there any question ?	Is
+There [MASK] no other candidate – since he is the only one who accompanies Don Quixote on all his adventures .	's
+[MASK] is he ? "	Who
+[MASK] is the church , portions of which go back to the fourth century .	Below
+[MASK] are Isaac Stern ; Alexander Schneider , formerly of the Budapest String Quartet ; Kollek 's son , Amos ; two Israeli couples whom I can not identify ; and the foreign-news editor of Le Monde , Michel Tatu .	Present
+In the Archbishop 's drawing room [MASK] golden icons .	are
+In illuminated [MASK] are ancient objects .	cases
+And [MASK] he definitely is .	French
+No explanations necessary , " [MASK] Nota .	says
+" Most [MASK] is the disappointing performance of Soviet foreign and domestic policy since the late 1950s , " they wrote in 1972 .	striking
+There [MASK] a clever , persistent young woman who writes to me often from Italy , who insists upon giving the most ordinary occurrences in my novels a political interpretation .	is
+There [MASK] a vast amount of red – good to see at any time , because one knows that some real work is done in there , a deuce of a lot of blue , a little green , smears of orange , and , on the East Coast , a purple patch , to show where the jolly pioneers of progress drink the jolly lager-beer .	was
+From behind that structure [MASK] out an impression of pale plumpness in a frock-coat . The great man himself .	came
+There [MASK] something pathetically childish in the ruins of grass walls .	's
+There must [MASK] strict rules in abattoirs to maintain the highest levels of hygiene .	be
+First there [MASK] the paragraph inviting the Commission to withdraw its proposal .	is
+Madam President , in the Swedish version of Amendment No-4 there [MASK] an unfortunate mistake .	is
+If demand were to increase , so too [MASK] risk capital , regardless of whether the markets are fragmented or not .	would
+There [MASK] no easy answer to the painful issue of abortion .	is
+There [MASK] limited resources for public health and we must see to it that they are exploited effectively .	are
+For one thing , there [MASK] increasing concern , and that is undoubtedly true , on the part of experts too .	is
+Then there [MASK] Amendment No-12 .	is
+There [MASK] an official pennant on the Volkswagen .	was
+There [MASK] gilded arches over the old airport road to town ; several men on bicycles wore shirts with Mweta 's face printed in yellow and puce on their backs .	were
+Why , [MASK] you from there ?	are
+Oh [MASK] you ?	have
+When Bray was delivered to the house there [MASK] no one at home but servants well primed to welcome him .	was
+There [MASK] no ceiling and he looked up into the pattern of a spider 's web made by the supporting beams of the roof .	was
+There [MASK] other faces from the past ;	were
+The kind of laugh they 've picked up from people like Uncle Willie [MASK] Neil .	said
+There [MASK] some sort of scuffle when Bray arrived ...	was
+You ca n't have met many decent wizards , [MASK] Harry , trying to cheer him up .	said
+Voldemort ? [MASK] Harry .	said
+" Why ? " [MASK] Harry in surprise .	said
+What terrible things ? [MASK] Harry at once .	said
+What – the – devil – are – you – doing ? [MASK] Uncle Vernon through gritted teeth , his face horribly close to Harry 's .	said
+Friends who do n't even write to Harry Potter ? [MASK] Dobby slyly .	said
+Dobby has them here , sir , [MASK] the elf .	said
+For a few minutes there [MASK] silence as they all read their letters .	was
+There [MASK] also a list of the new books he 'd need for the coming year .	was
+Wish I knew what he was up to , [MASK] Fred , frowning .	said
+Never ? [MASK] Mr Weasley .	said
+Not for [MASK] a poky terrace with a dog kennel and an outside toilet .	her
+At the bottom of the dial [MASK] the hooded figure of Time scything the hours , but at the top , over the position of the twelve was an angel with a trumpet bearing the inscription ' Aliquem alium internum ' .	was
+There [MASK] an urgent call for him .	was
+' Is something wrong ? ' [MASK] my father .	said
+[MASK] is restriction ap57	what
+[MASK] are the nonstop flights from kansas city to burbank arriving on saturday may twenty two	what
+[MASK] is meal code sb	what
+[MASK] is the earliest arriving flight from houston to orlando	what
+[MASK] are the first class and coach fares for flights from chicago to kansas city arriving around 7 pm next thursday	what
+[MASK] is the number of first class flights on american airlines	what
+[MASK] is the ap57 restriction	what
+[MASK] are the fares for flights between atlanta and dfw provided by american airlines	what
+[MASK] 's the earliest flight from boston to bwi that serves lunch	what
+[MASK] is the departure time of the latest flight of united airlines from denver to boston	what
+[MASK] is mia	what
+[MASK] is the name of the airport at denver	what
+[MASK] are the two american airlines flights that leave from dallas to san francisco in the evening	what
+[MASK] is the seating capacity for the aircraft m80	what
+[MASK] is the seating capacity on the aircraft 733	what
+[MASK] is the seating capacity of a 757	what
+[MASK] is the seating capacity on the aircraft m80	what
+i 'm sorry i wanted to fly twa [MASK] there a flight between oakland and boston with a stopover in dallas fort worth on twa	is
+[MASK] are connecting flights from chicago into seattle on june fifth	what
+[MASK] is the latest daily flight between oakland and salt lake city	what
+[MASK] is the earliest flight leaving denver and arriving in baltimore on united airlines first class on july fourth	what
+[MASK] 's the schedule of flights from atlanta to boston on august first	what
+[MASK] are the times that you have planes leaving from san francisco going to pittsburgh on july seventh	what
+[MASK] there limo service at pittsburgh airport	is
+[MASK] is the least expensive airfare between boston and baltimore	what
+[MASK] is the most expensive flight from boston to dallas round trip	what
+[MASK] is the least expensive one way ticket from atlanta to denver leaving on october twelfth	what
+[MASK] is the most expensive flight from boston to dallas	what
+[MASK] is the least expensive way to fly from philadelphia to san francisco	what
+[MASK] is the ground transportation between the charlotte airport charlotte airport and downtown charlotte	what
+[MASK] there ground transportation available at the denver airport	is
+[MASK] is booking class c	what
+[MASK] is fare code c	what
+[MASK] is fare code m	what
+what [MASK] of airplane is an m80	type
+[MASK] are the flights from washington dc to denver	what
+[MASK] there a 4 o'clock flight from washington dc to denver	is
+[MASK] is the type of aircraft for united flight 21	what
+[MASK] is the cost of united airlines flight 415 from chicago to kansas city thursday night	what
+[MASK] is the fare on american airlines flight 928 from dallas fort worth to boston	what
+[MASK] there ground transportation from the boston airport to downtown boston	is
+[MASK] are the flights from boston to san francisco leaving tomorrow	what
+[MASK] there any later flights than 810 pm leaving from milwaukee for tacoma tomorrow evening	are
+[MASK] there any other flights from boston to pittsburgh wednesday next week later than 5 pm	are
+[MASK] is the earliest flight on thursday from atlanta to washington dc	what
+[MASK] are the sunday flights from oakland to washington dc	what
+[MASK] 's the cheapest one way flight from oakland to washington dc	what
+[MASK] are the flights from las vegas to burbank on saturday may twenty two	what
+[MASK] is the earliest flight from denver to san francisco on the morning of august twenty seventh	what
+which [MASK] is the cheapest to fly from dallas to baltimore on december twenty fourth	airline
+[MASK] is the abbreviation for canadian airlines international	what
+[MASK] is dl	what
+[MASK] is airline nw	what
+[MASK] are the classes of service on twa	what
+[MASK] 's the cheapest flight from columbus to st. louis round trip on twa	what
+[MASK] are the flights from orlando to cleveland on us air that arrive around 10 pm	what
+[MASK] is the cost of a first class ticket from baltimore to dallas	what
+[MASK] is the round trip cost of a first class ticket from boston to san francisco	what
+[MASK] 's the cheapest first class airfare from pittsburgh to san francisco	what
+[MASK] me round trip first class tickets from new york to miami	show
+july seventh [MASK] is the cost of a round trip ticket traveling first class on united airlines leaving from denver going to baltimore	what
+[MASK] are the cheapest flights from denver to pittsburgh that stop in atlanta	what
+[MASK] there any flights from boston to san francisco stopping in denver	are
+[MASK] 's the first flight after 1 pm leaving washington to denver	what
+[MASK] 's the earliest flight from phoenix to salt lake city	what
+[MASK] is the latest flight you have departing dallas to philadelphia	what
+[MASK] is the latest flight leaving newark for los angeles wednesday	what
+[MASK] is the latest flight leaving pittsburgh returning to denver	what
+[MASK] is the latest departure from boston to pittsburgh on the seventh of july	what
+[MASK] is the last flight out of pittsburgh to boston in the evening on tuesdays	what
+[MASK] is the latest flight from salt lake city to st. petersburg	what
+[MASK] is the earliest arrival in salt lake city of a flight from toronto	what
+[MASK] are the latest flights from boston to dallas on the evening of july seventh	what
+[MASK] is the latest flight from philadelphia to boston	what
+[MASK] is the earliest flight on friday from washington to san francisco	what
+[MASK] is the earliest flight from washington to atlanta leaving on wednesday september fourth	what
+[MASK] is the latest flight from salt lake city to phoenix	what
+[MASK] is the cheapest way to fly from denver to oakland	what
+[MASK] is the cheapest fare for a one way flight from boston to atlanta	what
+[MASK] is the cheapest fare for flights from boston to dallas	what
+[MASK] is the cheapest flight from dallas to baltimore	what
+[MASK] is the cheapest fare that i can get between philadelphia and san francisco	what
+[MASK] is the lowest fare from denver to pittsburgh	what
+[MASK] is the cheapest one way fare from boston to baltimore	what
+[MASK] is the cheapest way to travel round trip from milwaukee to san francisco	what
+[MASK] 's the cheapest flight from denver to pittsburgh	what
+[MASK] 're the cheapest flights from new york to miami	what
+[MASK] is the cost for a one way trip from pittsburgh to atlanta	what
+[MASK] are the round trip flights from philadelphia to san francisco	what
+[MASK] are the flights for united airlines on september twentieth in the morning	what
+[MASK] there any flights on june eleventh from st. petersburg to milwaukee	are
+[MASK] are the flights from dallas to san francisco on tuesday october first	what
+and [MASK] are the flights from nashville to tacoma on the eighteenth again	what
+[MASK] is the fare for flights from denver to atlanta	what
+[MASK] is the cost of a flight from boston to denver	what
+[MASK] are the prices of the flights from atlanta to dallas in the morning	what
+[MASK] there a flight on united airlines from boston to denver	is
+[MASK] there any flights available from baltimore to dallas monday afternoon	are
+[MASK] are the afternoon flights between washington and boston	what
+[MASK] there delta flights leaving atlanta	are
+[MASK] are the american flights from newark to nashville	what
+[MASK] are the flights from boston to atlanta	what
+[MASK] are the flights from boston to baltimore	what
+[MASK] there a flight leaving from boston to atlanta	is
+[MASK] are the flights from pittsburgh to denver and back	what
+[MASK] are the flights from boston to washington	what
